@@ -1,4 +1,4 @@
-# version_controlled_infant_gut_analysis
+# infant_gut_analysis
 
 ## Introduction
 
