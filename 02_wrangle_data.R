@@ -17,8 +17,9 @@ clean_metadata <- sample_metadata %>%
   # remove spaces from names of variables 
   dplyr::rename(sampling_paper = `Sampling from papers`, 
          sampling_day = `Sampling, day`) %>%
-  # make sampling_day a numeric variable
-  mutate(sampling_day = as.numeric(sampling_day)) 
+  # recode "NA" as NA and make sampling_day a numeric variable
+  mutate(sampling_day = na_if(sampling_day, "NA") %>%
+           as.numeric()) 
 
 # in Yassour study, sample IDs are not unique to samples 
 # first inspect this to confirm
@@ -44,21 +45,10 @@ clean_metadata %>%
 
 # two studies (Parnanen and Yassour) took samples 
 # from mothers during pregnancy
-# for these samples, `sampling_day` represents sampling day 
-# since start of pregnancy, unlike all other samples for which 
-# `sampling_day` represents sampling day since birth
-ids_before_birth <- clean_metadata %>%
-  # identify these specific samples
-  filter(Category == "mother",
-         Study == "Parnanen" & sampling_paper == "32WK" |
-           Study == "Yassour" & sampling_paper == "Gest") %>%
-  # get sample ids for these samples
-  dplyr::pull(SampleID) 
+# remove these samples, because they don't fit into
+# the time range that we want to consider 
 clean_metadata <- clean_metadata %>%
-  # add `sampling_before_birth` variable, and set to TRUE
-  # for these specific samples we identified 
-  mutate(sampling_before_birth = ifelse(SampleID %in% ids_before_birth,
-                                        TRUE, FALSE))
+  filter(!(sampling_paper %in% c("32WK", "Gest")))
 
 # save cleaned data
 save(clean_metadata, file = "processed_data/clean_sample_metadata.rda")
