@@ -1,7 +1,7 @@
 library(readxl) # for reading data from supplementary table
 library(dplyr) # for combining data across studies 
 
-# read tabs for each study from Table S1 from Wang et al. supplementary information, saved as "meta_analysis_metadata.xlsx"
+# read tabs for each study from Table S1 from Wang et al. supplementary information, saved as "Table S1.xlsx"
 study_data <- lapply(3:10, function(i) {
   readxl::read_xlsx("raw_data/Table S1.xlsx", sheet = i)
 }) 
