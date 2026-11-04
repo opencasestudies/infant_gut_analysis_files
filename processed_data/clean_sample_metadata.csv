@@ -1186,17 +1186,17 @@ Wampach,SRR5575605,M_C106,106,stool,mother,30-35,26.171875,NA,NO,Birth,0,NA,NA,f
 Wampach,SRR5575414,V1_C106,106,stool,infant,30-35,26.171875,NA,NO,around 1 day,1,breast,NA,male,vaginal,NA,full-term,2700,LUX
 Wampach,SRR5575360,V2_C106,106,stool,infant,30-35,26.171875,NA,NO,around 3 days,3,breast,NA,male,vaginal,NA,full-term,2700,LUX
 Wampach,SRR5575565,V3_C106,106,stool,infant,30-35,26.171875,NA,NO,around 5 days,5,breast,NA,male,vaginal,NA,full-term,2700,LUX
-Wampach,SRR7716245,M_C109,109,stool,mother,30-35,21.829952199932251,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
-Wampach,SRR7716238,V1_C109,109,stool,infant,30-35,21.829952199932251,NA,NO,around 1 day,1,breast,NA,male,vaginal,NA,full-term,3550,LUX
-Wampach,SRR7716239,V2_C109,109,stool,infant,30-35,21.829952199932251,NA,NO,around 3 days,3,breast,NA,male,vaginal,NA,full-term,3550,LUX
+Wampach,SRR7716245,M_C109,109,stool,mother,30-35,21.82995219993225,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR7716238,V1_C109,109,stool,infant,30-35,21.82995219993225,NA,NO,around 1 day,1,breast,NA,male,vaginal,NA,full-term,3550,LUX
+Wampach,SRR7716239,V2_C109,109,stool,infant,30-35,21.82995219993225,NA,NO,around 3 days,3,breast,NA,male,vaginal,NA,full-term,3550,LUX
 Wampach,SRR7716246,M_C110,110,stool,mother,30-35,20.3125,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
 Wampach,SRR7716237,V1_C110,110,stool,infant,30-35,20.3125,NA,NO,around 1 day,1,breast,NA,male,vaginal,NA,full-term,3430,LUX
 Wampach,SRR7716249,V2_C110,110,stool,infant,30-35,20.3125,NA,NO,around 3 days,3,breast,NA,male,vaginal,NA,full-term,3430,LUX
 Wampach,SRR7716242,V3_C110,110,stool,infant,30-35,20.3125,NA,NO,around 5 days,5,breast,NA,male,vaginal,NA,full-term,3430,LUX
-Wampach,SRR5575599,M_C111,111,stool,mother,30-35,26.026174895895302,NA,YES,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
-Wampach,SRR5575411,V1_C111,111,stool,infant,30-35,26.026174895895302,NA,YES,around 1 day,1,breast,NA,female,vaginal,NA,full-term,3850,LUX
-Wampach,SRR5575363,V2_C111,111,stool,infant,30-35,26.026174895895302,NA,YES,around 3 days,3,breast,NA,female,vaginal,NA,full-term,3850,LUX
-Wampach,SRR5575423,V3_C111,111,stool,infant,30-35,26.026174895895302,NA,YES,around 5 days,5,breast,NA,female,vaginal,NA,full-term,3850,LUX
+Wampach,SRR5575599,M_C111,111,stool,mother,30-35,26.026174895895306,NA,YES,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR5575411,V1_C111,111,stool,infant,30-35,26.026174895895306,NA,YES,around 1 day,1,breast,NA,female,vaginal,NA,full-term,3850,LUX
+Wampach,SRR5575363,V2_C111,111,stool,infant,30-35,26.026174895895306,NA,YES,around 3 days,3,breast,NA,female,vaginal,NA,full-term,3850,LUX
+Wampach,SRR5575423,V3_C111,111,stool,infant,30-35,26.026174895895306,NA,YES,around 5 days,5,breast,NA,female,vaginal,NA,full-term,3850,LUX
 Wampach,SRR5575413,M_C114,114,stool,mother,20-25,24.835763499439192,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
 Wampach,SRR5575420,V2_C114,114,stool,infant,20-25,24.835763499439192,NA,YES,around 3 days,3,combined,NA,female,CS,Elective_CS,full-term,2560,LUX
 Wampach,SRR5575656,V3_C114,114,stool,infant,20-25,24.835763499439192,NA,YES,around 5 days,5,combined,NA,female,CS,Elective_CS,full-term,2560,LUX
@@ -1207,16 +1207,16 @@ Wampach,SRR5575357,V3_C115,115,stool,infant,35-40,28.125,NA,YES,around 5 days,5,
 Wampach,SRR5575407T1,M_C116,116,stool,mother,35-40,28.125,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
 Wampach,SRR5575417,V2_C116,116,stool,infant,35-40,28.125,NA,YES,around 3 days,3,formula,NA,male,CS,Elective_CS,preterm,1850,LUX
 Wampach,SRR5575355,V3_C116,116,stool,infant,35-40,28.125,NA,YES,around 5 days,5,formula,NA,male,CS,Elective_CS,preterm,1850,LUX
-Wampach,SRR5575598,M_C117,117,stool,mother,40-45,22.308149910767401,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
-Wampach,SRR5575362,V2_C117,117,stool,infant,40-45,22.308149910767401,NA,NO,around 3 days,3,combined,NA,male,vaginal,NA,full-term,3670,LUX
-Wampach,SRR5575424,V3_C117,117,stool,infant,40-45,22.308149910767401,NA,NO,around 5 days,5,combined,NA,male,vaginal,NA,full-term,3670,LUX
-Wampach,SRR5575409,M_C118,118,stool,mother,25-30,21.007667798746546,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
-Wampach,SRR5575412,V1_C118,118,stool,infant,25-30,21.007667798746546,NA,YES,around 1 day,1,breast,NA,male,CS,Elective_CS,full-term,3330,LUX
-Wampach,SRR5575365,V2_C118,118,stool,infant,25-30,21.007667798746546,NA,YES,around 3 days,3,breast,NA,male,CS,Elective_CS,full-term,3330,LUX
-Wampach,SRR5575425,V3_C118,118,stool,infant,25-30,21.007667798746546,NA,YES,around 5 days,5,combined,NA,male,CS,Elective_CS,full-term,3330,LUX
-Wampach,SRR7716247,M_C119,119,stool,mother,35-40,47.058823529411761,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
-Wampach,SRR7716240,V2_C119,119,stool,infant,35-40,47.058823529411761,NA,YES,around 3 days,3,combined,NA,female,CS,Elective_CS,full-term,1900,LUX
-Wampach,SRR7716243,V3_C119,119,stool,infant,35-40,47.058823529411761,NA,YES,around 5 days,5,formula,NA,female,CS,Elective_CS,full-term,1900,LUX
+Wampach,SRR5575598,M_C117,117,stool,mother,40-45,22.3081499107674,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR5575362,V2_C117,117,stool,infant,40-45,22.3081499107674,NA,NO,around 3 days,3,combined,NA,male,vaginal,NA,full-term,3670,LUX
+Wampach,SRR5575424,V3_C117,117,stool,infant,40-45,22.3081499107674,NA,NO,around 5 days,5,combined,NA,male,vaginal,NA,full-term,3670,LUX
+Wampach,SRR5575409,M_C118,118,stool,mother,25-30,21.007667798746542,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
+Wampach,SRR5575412,V1_C118,118,stool,infant,25-30,21.007667798746542,NA,YES,around 1 day,1,breast,NA,male,CS,Elective_CS,full-term,3330,LUX
+Wampach,SRR5575365,V2_C118,118,stool,infant,25-30,21.007667798746542,NA,YES,around 3 days,3,breast,NA,male,CS,Elective_CS,full-term,3330,LUX
+Wampach,SRR5575425,V3_C118,118,stool,infant,25-30,21.007667798746542,NA,YES,around 5 days,5,combined,NA,male,CS,Elective_CS,full-term,3330,LUX
+Wampach,SRR7716247,M_C119,119,stool,mother,35-40,47.05882352941176,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
+Wampach,SRR7716240,V2_C119,119,stool,infant,35-40,47.05882352941176,NA,YES,around 3 days,3,combined,NA,female,CS,Elective_CS,full-term,1900,LUX
+Wampach,SRR7716243,V3_C119,119,stool,infant,35-40,47.05882352941176,NA,YES,around 5 days,5,formula,NA,female,CS,Elective_CS,full-term,1900,LUX
 Wampach,SRR5575410,M_C120,120,stool,mother,35-40,19.519631171921475,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
 Wampach,SRR5575415,V1_C120,120,stool,infant,35-40,19.519631171921475,NA,YES,around 1 day,1,combined,NA,male,CS,Elective_CS,full-term,3050,LUX
 Wampach,SRR5575364,V2_C120,120,stool,infant,35-40,19.519631171921475,NA,YES,around 3 days,3,breast,NA,male,CS,Elective_CS,full-term,3050,LUX
