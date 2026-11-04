@@ -3,7 +3,7 @@ library(dplyr) # for data manipulation
 library(stringr) # for working with strings
 
 # load data that we saved in data_import
-readr::read_csv("processed_data/sample_metadata.csv")
+sample_metadata <- readr::read_csv("processed_data/sample_metadata.csv")
 
 # clean data
 clean_metadata <- sample_metadata %>%
