@@ -1,0 +1,1444 @@
+Study,Run,SampleID,PersonID,Type,Category,Maternal age,Maternal body mass index before pregnancy,Maternal antibiotics before delivery,Maternal intrapartum antibiotics,sampling_paper,sampling_day,Feeding regimen,Postnatal antibiotic intervention in infants,Gender,Mode of delivery,Caesarean-section type,Gestational age,Birth weight,Country
+Asnicar,SRR4052021,MV_FEI1_t1Q14,1,stool,infant,NA,NA,NA,NA,3mo,90,combined,NA,female,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052043,MV_FEM1_t1Q14,1,stool,mother,NA,NA,NA,NA,3mo,90,NA,NA,female,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052022,MV_FEI2_t1Q14,2,stool,infant,NA,NA,NA,NA,3mo,90,breast,NA,male,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052044,MV_FEM2_t1Q14,2,stool,mother,NA,NA,NA,NA,3mo,90,NA,NA,female,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052033,MV_FEI3_t1Q14,3,stool,infant,NA,NA,NA,NA,3mo,90,combined,NA,male,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052023,MV_FEM3_t1Q14,3,stool,mother,NA,NA,NA,NA,3mo,90,NA,NA,female,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052038,MV_FEI4_t1Q14,4,stool,infant,NA,NA,NA,NA,3mo,90,breast,NA,male,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052039,MV_FEI4_t2Q15,4,stool,infant,NA,NA,NA,NA,10mo,300,combined,NA,male,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052024,MV_FEM4_t1Q14,4,stool,mother,NA,NA,NA,NA,3mo,90,NA,NA,female,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052025,MV_FEM4_t2Q15,4,stool,mother,NA,NA,NA,NA,10mo,300,NA,NA,female,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052040,MV_FEI5_t1Q14,5,stool,infant,NA,NA,NA,NA,3mo,90,breast,NA,male,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052041,MV_FEI5_t2Q14,5,stool,infant,NA,NA,NA,NA,10mo,300,combined,NA,male,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052042,MV_FEI5_t3Q15,5,stool,infant,NA,NA,NA,NA,16mo,480,combined,NA,male,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052026,MV_FEM5_t1Q14,5,stool,mother,NA,NA,NA,NA,3mo,90,NA,NA,female,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052027,MV_FEM5_t2Q14,5,stool,mother,NA,NA,NA,NA,10mo,300,NA,NA,female,vaginal,NA,NA,NA,ITA_1
+Asnicar,SRR4052028,MV_FEM5_t3Q15,5,stool,mother,NA,NA,NA,NA,16mo,480,NA,NA,female,vaginal,NA,NA,NA,ITA_1
+Backhed,ERR525759,1_M,1,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525700,1_12M,1,stool,infant,NA,NA,NA,NA,378,378,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525721,1_4M,1,stool,infant,NA,NA,NA,NA,114,114,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525758,1_B,1,stool,infant,NA,NA,NA,NA,4,4,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526075,7_M,7,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526068,7_12M,7,stool,infant,NA,NA,NA,NA,359,359,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526069,7_4M,7,stool,infant,NA,NA,NA,NA,115,115,formula,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526074,7_B,7,stool,infant,NA,NA,NA,NA,2,2,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526087,9_M,9,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526084,9_12M,9,stool,infant,NA,NA,NA,NA,380,380,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526085,9_4M,9,stool,infant,NA,NA,NA,NA,129,129,formula,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526086,9_B,9,stool,infant,NA,NA,NA,NA,2,2,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525699,10_M,10,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525688,10_12M,10,stool,infant,NA,NA,NA,NA,380,380,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525693,10_4M,10,stool,infant,NA,NA,NA,NA,110,110,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525698,10_B,10,stool,infant,NA,NA,NA,NA,1,1,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525708,12_M,12,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525701,12_12M,12,stool,infant,NA,NA,NA,NA,376,376,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525702,12_4M,12,stool,infant,NA,NA,NA,NA,111,111,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525707,12_B,12,stool,infant,NA,NA,NA,NA,2,2,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525753,18_M,18,stool,mother,NA,NA,NA,NA,6,6,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525743,18_12M,18,stool,infant,NA,NA,NA,NA,374,374,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525750,18_4M,18,stool,infant,NA,NA,NA,NA,122,122,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525752,18_B,18,stool,infant,NA,NA,NA,NA,4,4,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525815,26_M,26,stool,mother,NA,NA,NA,NA,8,8,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525800,26_12M,26,stool,infant,NA,NA,NA,NA,376,376,NA,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525805,26_4M,26,stool,infant,NA,NA,NA,NA,119,119,breast,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525814,26_B,26,stool,infant,NA,NA,NA,NA,5,5,NA,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525895,38_M,38,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525880,38_12M,38,stool,infant,NA,NA,NA,NA,380,380,NA,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525885,38_4M,38,stool,infant,NA,NA,NA,NA,130,130,formula,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525894,38_B,38,stool,infant,NA,NA,NA,NA,2,2,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525903,39_M,39,stool,mother,NA,NA,NA,NA,7,7,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525896,39_12M,39,stool,infant,NA,NA,NA,NA,372,372,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525897,39_4M,39,stool,infant,NA,NA,NA,NA,122,122,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525902,39_B,39,stool,infant,NA,NA,NA,NA,7,7,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525907,42_M,42,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525904,42_12M,42,stool,infant,NA,NA,NA,NA,372,372,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525905,42_4M,42,stool,infant,NA,NA,NA,NA,122,122,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525906,42_B,42,stool,infant,NA,NA,NA,NA,3,3,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525911,45_M,45,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525908,45_12M,45,stool,infant,NA,NA,NA,NA,363,363,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525909,45_4M,45,stool,infant,NA,NA,NA,NA,127,127,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525910,45_B,45,stool,infant,NA,NA,NA,NA,2,2,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525931,51_M,51,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525925,51_12M,51,stool,infant,NA,NA,NA,NA,368,368,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525929,51_4M,51,stool,infant,NA,NA,NA,NA,132,132,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525930,51_B,51,stool,infant,NA,NA,NA,NA,3,3,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525955,53_M,53,stool,mother,NA,NA,NA,NA,5,5,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525944,53_12M,53,stool,infant,NA,NA,NA,NA,363,363,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525949,53_4M,53,stool,infant,NA,NA,NA,NA,132,132,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525954,53_B,53,stool,infant,NA,NA,NA,NA,5,5,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526067,70_M,70,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526064,70_12M,70,stool,infant,NA,NA,NA,NA,365,365,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526065,70_4M,70,stool,infant,NA,NA,NA,NA,120,120,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526066,70_B,70,stool,infant,NA,NA,NA,NA,2,2,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526073,78_M,78,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526070,78_12M,78,stool,infant,NA,NA,NA,NA,363,363,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526071,78_4M,78,stool,infant,NA,NA,NA,NA,120,120,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526072,78_B,78,stool,infant,NA,NA,NA,NA,7,7,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526079,82_M,82,stool,mother,NA,NA,NA,NA,6,6,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526076,82_12M,82,stool,infant,NA,NA,NA,NA,369,369,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526077,82_4M,82,stool,infant,NA,NA,NA,NA,128,128,formula,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526078,82_B,82,stool,infant,NA,NA,NA,NA,6,6,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526083,87_M,87,stool,mother,NA,NA,NA,NA,5,5,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526080,87_12M,87,stool,infant,NA,NA,NA,NA,367,367,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526081,87_4M,87,stool,infant,NA,NA,NA,NA,117,117,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526082,87_B,87,stool,infant,NA,NA,NA,NA,5,5,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525692,103_M,103,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525689,103_12M,103,stool,infant,NA,NA,NA,NA,369,369,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525690,103_4M,103,stool,infant,NA,NA,NA,NA,125,125,combined,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525691,103_B,103,stool,infant,NA,NA,NA,NA,3,3,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525697,105_M,105,stool,mother,NA,NA,NA,NA,5,5,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525694,105_12M,105,stool,infant,NA,NA,NA,NA,354,354,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525695,105_4M,105,stool,infant,NA,NA,NA,NA,118,118,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525696,105_B,105,stool,infant,NA,NA,NA,NA,5,5,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525706,128_M,128,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525703,128_12M,128,stool,infant,NA,NA,NA,NA,366,366,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525704,128_4M,128,stool,infant,NA,NA,NA,NA,123,123,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525705,128_B,128,stool,infant,NA,NA,NA,NA,1,1,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525712,130_M,130,stool,mother,NA,NA,NA,NA,1,1,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525709,130_12M,130,stool,infant,NA,NA,NA,NA,365,365,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525710,130_4M,130,stool,infant,NA,NA,NA,NA,127,127,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525711,130_B,130,stool,infant,NA,NA,NA,NA,1,1,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525716,133_M,133,stool,mother,NA,NA,NA,NA,11,11,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525713,133_12M,133,stool,infant,NA,NA,NA,NA,369,369,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525714,133_4M,133,stool,infant,NA,NA,NA,NA,124,124,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525715,133_B,133,stool,infant,NA,NA,NA,NA,11,11,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525720,137_M,137,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525717,137_12M,137,stool,infant,NA,NA,NA,NA,366,366,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525718,137_4M,137,stool,infant,NA,NA,NA,NA,134,134,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525719,137_B,137,stool,infant,NA,NA,NA,NA,1,1,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525725,150_M,150,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525722,150_12M,150,stool,infant,NA,NA,NA,NA,364,364,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525723,150_4M,150,stool,infant,NA,NA,NA,NA,121,121,breast,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525724,150_B,150,stool,infant,NA,NA,NA,NA,1,1,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525729,157_M,157,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525726,157_12M,157,stool,infant,NA,NA,NA,NA,365,365,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525727,157_4M,157,stool,infant,NA,NA,NA,NA,128,128,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525728,157_B,157,stool,infant,NA,NA,NA,NA,0,0,formula,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525733,172_M,172,stool,mother,NA,NA,NA,NA,1,1,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525730,172_12M,172,stool,infant,NA,NA,NA,NA,364,364,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525731,172_4M,172,stool,infant,NA,NA,NA,NA,123,123,breast,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525732,172_B,172,stool,infant,NA,NA,NA,NA,3,3,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525737,179_M,179,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525734,179_12M,179,stool,infant,NA,NA,NA,NA,361,361,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525735,179_4M,179,stool,infant,NA,NA,NA,NA,121,121,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525736,179_B,179,stool,infant,NA,NA,NA,NA,8,8,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525741,180_M,180,stool,mother,NA,NA,NA,NA,6,6,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525738,180_12M,180,stool,infant,NA,NA,NA,NA,362,362,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525739,180_4M,180,stool,infant,NA,NA,NA,NA,124,124,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525740,180_B,180,stool,infant,NA,NA,NA,NA,7,7,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525746,181_M,181,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525742,181_12M,181,stool,infant,NA,NA,NA,NA,357,357,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525744,181_4M,181,stool,infant,NA,NA,NA,NA,119,119,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525745,181_B,181,stool,infant,NA,NA,NA,NA,3,3,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525751,184_M,184,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525747,184_12M,184,stool,infant,NA,NA,NA,NA,360,360,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525748,184_4M,184,stool,infant,NA,NA,NA,NA,125,125,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525749,184_B,184,stool,infant,NA,NA,NA,NA,3,3,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525757,195_M,195,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525754,195_12M,195,stool,infant,NA,NA,NA,NA,396,396,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525755,195_4M,195,stool,infant,NA,NA,NA,NA,114,114,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525756,195_B,195,stool,infant,NA,NA,NA,NA,2,2,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525763,201_M,201,stool,mother,NA,NA,NA,NA,8,8,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525760,201_12M,201,stool,infant,NA,NA,NA,NA,381,381,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525761,201_4M,201,stool,infant,NA,NA,NA,NA,NA,NA,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525762,201_B,201,stool,infant,NA,NA,NA,NA,8,8,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525767,203_M,203,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525764,203_12M,203,stool,infant,NA,NA,NA,NA,357,357,NA,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525765,203_4M,203,stool,infant,NA,NA,NA,NA,112,112,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525766,203_B,203,stool,infant,NA,NA,NA,NA,3,3,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525771,224_M,224,stool,mother,NA,NA,NA,NA,8,8,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525768,224_12M,224,stool,infant,NA,NA,NA,NA,377,377,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525769,224_4M,224,stool,infant,NA,NA,NA,NA,124,124,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525770,224_B,224,stool,infant,NA,NA,NA,NA,8,8,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525775,229_M,229,stool,mother,NA,NA,NA,NA,NA,NA,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525772,229_12M,229,stool,infant,NA,NA,NA,NA,371,371,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525773,229_4M,229,stool,infant,NA,NA,NA,NA,125,125,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525774,229_B,229,stool,infant,NA,NA,NA,NA,NA,NA,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525779,238_M,238,stool,mother,NA,NA,NA,NA,6,6,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525776,238_12M,238,stool,infant,NA,NA,NA,NA,365,365,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525777,238_4M,238,stool,infant,NA,NA,NA,NA,123,123,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525778,238_B,238,stool,infant,NA,NA,NA,NA,5,5,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525783,240_M,240,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525780,240_12M,240,stool,infant,NA,NA,NA,NA,358,358,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525781,240_4M,240,stool,infant,NA,NA,NA,NA,122,122,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525782,240_B,240,stool,infant,NA,NA,NA,NA,1,1,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525787,241_M,241,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525784,241_12M,241,stool,infant,NA,NA,NA,NA,358,358,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525785,241_4M,241,stool,infant,NA,NA,NA,NA,130,130,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525786,241_B,241,stool,infant,NA,NA,NA,NA,3,3,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525791,244_M,244,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525788,244_12M,244,stool,infant,NA,NA,NA,NA,362,362,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525789,244_4M,244,stool,infant,NA,NA,NA,NA,128,128,formula,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525790,244_B,244,stool,infant,NA,NA,NA,NA,2,2,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525795,256_M,256,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525792,256_12M,256,stool,infant,NA,NA,NA,NA,385,385,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525793,256_4M,256,stool,infant,NA,NA,NA,NA,118,118,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525794,256_B,256,stool,infant,NA,NA,NA,NA,3,3,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525799,258_M,258,stool,mother,NA,NA,NA,NA,1,1,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525796,258_12M,258,stool,infant,NA,NA,NA,NA,363,363,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525797,258_4M,258,stool,infant,NA,NA,NA,NA,115,115,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525798,258_B,258,stool,infant,NA,NA,NA,NA,1,1,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525804,263_M,263,stool,mother,NA,NA,NA,NA,7,7,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525801,263_12M,263,stool,infant,NA,NA,NA,NA,367,367,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525802,263_4M,263,stool,infant,NA,NA,NA,NA,128,128,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525803,263_B,263,stool,infant,NA,NA,NA,NA,9,9,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525809,265_M,265,stool,mother,NA,NA,NA,NA,12,12,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525806,265_12M,265,stool,infant,NA,NA,NA,NA,372,372,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525807,265_4M,265,stool,infant,NA,NA,NA,NA,124,124,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525808,265_B,265,stool,infant,NA,NA,NA,NA,11,11,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525813,268_M,268,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525810,268_12M,268,stool,infant,NA,NA,NA,NA,371,371,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525811,268_4M,268,stool,infant,NA,NA,NA,NA,119,119,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525812,268_B,268,stool,infant,NA,NA,NA,NA,3,3,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525819,272_M,272,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525816,272_12M,272,stool,infant,NA,NA,NA,NA,375,375,NA,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525817,272_4M,272,stool,infant,NA,NA,NA,NA,120,120,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525818,272_B,272,stool,infant,NA,NA,NA,NA,2,2,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525823,274_M,274,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525820,274_12M,274,stool,infant,NA,NA,NA,NA,367,367,NA,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525821,274_4M,274,stool,infant,NA,NA,NA,NA,120,120,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525822,274_B,274,stool,infant,NA,NA,NA,NA,0,0,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525827,275_M,275,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525824,275_12M,275,stool,infant,NA,NA,NA,NA,367,367,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525825,275_4M,275,stool,infant,NA,NA,NA,NA,119,119,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525826,275_B,275,stool,infant,NA,NA,NA,NA,1,1,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525831,276_M,276,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525828,276_12M,276,stool,infant,NA,NA,NA,NA,373,373,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525829,276_4M,276,stool,infant,NA,NA,NA,NA,128,128,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525830,276_B,276,stool,infant,NA,NA,NA,NA,4,4,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525835,281_M,281,stool,mother,NA,NA,NA,NA,7,7,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525832,281_12M,281,stool,infant,NA,NA,NA,NA,366,366,NA,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525833,281_4M,281,stool,infant,NA,NA,NA,NA,117,117,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525834,281_B,281,stool,infant,NA,NA,NA,NA,7,7,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525839,282_M,282,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525836,282_12M,282,stool,infant,NA,NA,NA,NA,364,364,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525837,282_4M,282,stool,infant,NA,NA,NA,NA,122,122,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525838,282_B,282,stool,infant,NA,NA,NA,NA,2,2,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525847,332_M,332,stool,mother,NA,NA,NA,NA,12,12,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525844,332_12M,332,stool,infant,NA,NA,NA,NA,409,409,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525845,332_4M,332,stool,infant,NA,NA,NA,NA,125,125,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525846,332_B,332,stool,infant,NA,NA,NA,NA,12,12,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525851,335_M,335,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525848,335_12M,335,stool,infant,NA,NA,NA,NA,385,385,NA,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525849,335_4M,335,stool,infant,NA,NA,NA,NA,122,122,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525850,335_B,335,stool,infant,NA,NA,NA,NA,2,2,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525855,338_M,338,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525852,338_12M,338,stool,infant,NA,NA,NA,NA,364,364,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525853,338_4M,338,stool,infant,NA,NA,NA,NA,126,126,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525854,338_B,338,stool,infant,NA,NA,NA,NA,2,2,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525859,341_M,341,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525856,341_12M,341,stool,infant,NA,NA,NA,NA,364,364,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525857,341_4M,341,stool,infant,NA,NA,NA,NA,122,122,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525858,341_B,341,stool,infant,NA,NA,NA,NA,4,4,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525863,343_M,343,stool,mother,NA,NA,NA,NA,10,10,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525860,343_12M,343,stool,infant,NA,NA,NA,NA,364,364,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525861,343_4M,343,stool,infant,NA,NA,NA,NA,122,122,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525862,343_B,343,stool,infant,NA,NA,NA,NA,9,9,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525867,345_M,345,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525864,345_12M,345,stool,infant,NA,NA,NA,NA,359,359,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525865,345_4M,345,stool,infant,NA,NA,NA,NA,121,121,formula,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525866,345_B,345,stool,infant,NA,NA,NA,NA,2,2,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525871,350_M,350,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525868,350_12M,350,stool,infant,NA,NA,NA,NA,366,366,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525869,350_4M,350,stool,infant,NA,NA,NA,NA,121,121,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525870,350_B,350,stool,infant,NA,NA,NA,NA,1,1,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525875,367_M,367,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525872,367_12M,367,stool,infant,NA,NA,NA,NA,376,376,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525873,367_4M,367,stool,infant,NA,NA,NA,NA,121,121,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525874,367_B,367,stool,infant,NA,NA,NA,NA,2,2,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525879,377_M,377,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525876,377_12M,377,stool,infant,NA,NA,NA,NA,372,372,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525877,377_4M,377,stool,infant,NA,NA,NA,NA,123,123,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525878,377_B,377,stool,infant,NA,NA,NA,NA,3,3,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525884,383_M,383,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525881,383_12M,383,stool,infant,NA,NA,NA,NA,368,368,NA,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525882,383_4M,383,stool,infant,NA,NA,NA,NA,119,119,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525883,383_B,383,stool,infant,NA,NA,NA,NA,2,2,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525889,385_M,385,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525886,385_12M,385,stool,infant,NA,NA,NA,NA,366,366,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525887,385_4M,385,stool,infant,NA,NA,NA,NA,110,110,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525888,385_B,385,stool,infant,NA,NA,NA,NA,3,3,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525893,387_M,387,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525890,387_12M,387,stool,infant,NA,NA,NA,NA,364,364,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525891,387_4M,387,stool,infant,NA,NA,NA,NA,121,121,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525892,387_B,387,stool,infant,NA,NA,NA,NA,2,2,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525901,397_M,397,stool,mother,NA,NA,NA,NA,10,10,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525898,397_12M,397,stool,infant,NA,NA,NA,NA,370,370,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525899,397_4M,397,stool,infant,NA,NA,NA,NA,118,118,breast,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525900,397_B,397,stool,infant,NA,NA,NA,NA,10,10,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525915,503_M,503,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525912,503_12M,503,stool,infant,NA,NA,NA,NA,371,371,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525913,503_4M,503,stool,infant,NA,NA,NA,NA,124,124,formula,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525914,503_B,503,stool,infant,NA,NA,NA,NA,3,3,combined,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525919,504_M,504,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525916,504_12M,504,stool,infant,NA,NA,NA,NA,361,361,NA,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525917,504_4M,504,stool,infant,NA,NA,NA,NA,124,124,formula,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525918,504_B,504,stool,infant,NA,NA,NA,NA,4,4,combined,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525923,507_M,507,stool,mother,NA,NA,NA,NA,9,9,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525920,507_12M,507,stool,infant,NA,NA,NA,NA,365,365,NA,YES,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525921,507_4M,507,stool,infant,NA,NA,NA,NA,115,115,combined,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525922,507_B,507,stool,infant,NA,NA,NA,NA,8,8,breast,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525928,511_M,511,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525924,511_12M,511,stool,infant,NA,NA,NA,NA,358,358,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525926,511_4M,511,stool,infant,NA,NA,NA,NA,114,114,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525927,511_B,511,stool,infant,NA,NA,NA,NA,4,4,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525935,521_M,521,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525932,521_12M,521,stool,infant,NA,NA,NA,NA,361,361,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525933,521_4M,521,stool,infant,NA,NA,NA,NA,123,123,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525934,521_B,521,stool,infant,NA,NA,NA,NA,1,1,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525939,526_M,526,stool,mother,NA,NA,NA,NA,1,1,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525936,526_12M,526,stool,infant,NA,NA,NA,NA,360,360,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525937,526_4M,526,stool,infant,NA,NA,NA,NA,123,123,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525938,526_B,526,stool,infant,NA,NA,NA,NA,6,6,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525943,527_M,527,stool,mother,NA,NA,NA,NA,1,1,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525940,527_12M,527,stool,infant,NA,NA,NA,NA,360,360,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525941,527_4M,527,stool,infant,NA,NA,NA,NA,123,123,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525942,527_B,527,stool,infant,NA,NA,NA,NA,0,0,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525948,532_M,532,stool,mother,NA,NA,NA,NA,5,5,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525945,532_12M,532,stool,infant,NA,NA,NA,NA,364,364,NA,YES,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525946,532_4M,532,stool,infant,NA,NA,NA,NA,120,120,formula,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525947,532_B,532,stool,infant,NA,NA,NA,NA,5,5,combined,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525953,536_M,536,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525950,536_12M,536,stool,infant,NA,NA,NA,NA,365,365,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525951,536_4M,536,stool,infant,NA,NA,NA,NA,122,122,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525952,536_B,536,stool,infant,NA,NA,NA,NA,2,2,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525959,544_M,544,stool,mother,NA,NA,NA,NA,20,20,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525956,544_12M,544,stool,infant,NA,NA,NA,NA,364,364,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525957,544_4M,544,stool,infant,NA,NA,NA,NA,114,114,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525958,544_B,544,stool,infant,NA,NA,NA,NA,NA,NA,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525963,546_M,546,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525960,546_12M,546,stool,infant,NA,NA,NA,NA,358,358,NA,YES,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525961,546_4M,546,stool,infant,NA,NA,NA,NA,121,121,formula,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525962,546_B,546,stool,infant,NA,NA,NA,NA,3,3,combined,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR525967,549_M,549,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525964,549_12M,549,stool,infant,NA,NA,NA,NA,359,359,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525965,549_4M,549,stool,infant,NA,NA,NA,NA,127,127,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525966,549_B,549,stool,infant,NA,NA,NA,NA,2,2,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525971,560_M,560,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525968,560_12M,560,stool,infant,NA,NA,NA,NA,360,360,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525969,560_4M,560,stool,infant,NA,NA,NA,NA,131,131,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525970,560_B,560,stool,infant,NA,NA,NA,NA,4,4,combined,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525975,565_M,565,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525972,565_12M,565,stool,infant,NA,NA,NA,NA,367,367,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525973,565_4M,565,stool,infant,NA,NA,NA,NA,127,127,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525974,565_B,565,stool,infant,NA,NA,NA,NA,3,3,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525983,567_M,567,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525980,567_12M,567,stool,infant,NA,NA,NA,NA,367,367,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525981,567_4M,567,stool,infant,NA,NA,NA,NA,121,121,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525982,567_B,567,stool,infant,NA,NA,NA,NA,1,1,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525987,570_M,570,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525984,570_12M,570,stool,infant,NA,NA,NA,NA,371,371,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525985,570_4M,570,stool,infant,NA,NA,NA,NA,118,118,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525986,570_B,570,stool,infant,NA,NA,NA,NA,2,2,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525991,572_M,572,stool,mother,NA,NA,NA,NA,6,6,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525988,572_12M,572,stool,infant,NA,NA,NA,NA,364,364,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525989,572_4M,572,stool,infant,NA,NA,NA,NA,116,116,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525990,572_B,572,stool,infant,NA,NA,NA,NA,5,5,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525995,577_M,577,stool,mother,NA,NA,NA,NA,8,8,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525992,577_12M,577,stool,infant,NA,NA,NA,NA,369,369,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525993,577_4M,577,stool,infant,NA,NA,NA,NA,120,120,combined,YES,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525994,577_B,577,stool,infant,NA,NA,NA,NA,7,7,combined,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR525999,582_M,582,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525996,582_12M,582,stool,infant,NA,NA,NA,NA,369,369,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525997,582_4M,582,stool,infant,NA,NA,NA,NA,125,125,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR525998,582_B,582,stool,infant,NA,NA,NA,NA,2,2,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526003,585_M,585,stool,mother,NA,NA,NA,NA,5,5,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526000,585_12M,585,stool,infant,NA,NA,NA,NA,367,367,NA,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR526001,585_4M,585,stool,infant,NA,NA,NA,NA,126,126,breast,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR526002,585_B,585,stool,infant,NA,NA,NA,NA,6,6,breast,NO,male,CS,NA,full-term,NA,SWE
+Backhed,ERR526007,587_M,587,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526004,587_12M,587,stool,infant,NA,NA,NA,NA,366,366,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526005,587_4M,587,stool,infant,NA,NA,NA,NA,125,125,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526006,587_B,587,stool,infant,NA,NA,NA,NA,3,3,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526011,589_M,589,stool,mother,NA,NA,NA,NA,11,11,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526008,589_12M,589,stool,infant,NA,NA,NA,NA,371,371,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526009,589_4M,589,stool,infant,NA,NA,NA,NA,119,119,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526010,589_B,589,stool,infant,NA,NA,NA,NA,6,6,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526015,590_M,590,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526012,590_12M,590,stool,infant,NA,NA,NA,NA,355,355,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526013,590_4M,590,stool,infant,NA,NA,NA,NA,123,123,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526014,590_B,590,stool,infant,NA,NA,NA,NA,4,4,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526019,591_M,591,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526016,591_12M,591,stool,infant,NA,NA,NA,NA,364,364,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526017,591_4M,591,stool,infant,NA,NA,NA,NA,119,119,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526018,591_B,591,stool,infant,NA,NA,NA,NA,9,9,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526023,598_M,598,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526020,598_12M,598,stool,infant,NA,NA,NA,NA,359,359,NA,YES,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526021,598_4M,598,stool,infant,NA,NA,NA,NA,124,124,combined,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526022,598_B,598,stool,infant,NA,NA,NA,NA,2,2,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526027,599_M,599,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526024,599_12M,599,stool,infant,NA,NA,NA,NA,369,369,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526025,599_4M,599,stool,infant,NA,NA,NA,NA,150,150,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526026,599_B,599,stool,infant,NA,NA,NA,NA,3,3,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526031,608_M,608,stool,mother,NA,NA,NA,NA,8,8,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526028,608_12M,608,stool,infant,NA,NA,NA,NA,374,374,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526029,608_4M,608,stool,infant,NA,NA,NA,NA,127,127,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526030,608_B,608,stool,infant,NA,NA,NA,NA,8,8,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526035,615_M,615,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526032,615_12M,615,stool,infant,NA,NA,NA,NA,372,372,NA,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526033,615_4M,615,stool,infant,NA,NA,NA,NA,133,133,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526034,615_B,615,stool,infant,NA,NA,NA,NA,4,4,breast,NO,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526039,622_M,622,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526036,622_12M,622,stool,infant,NA,NA,NA,NA,351,351,NA,YES,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526037,622_4M,622,stool,infant,NA,NA,NA,NA,120,120,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526038,622_B,622,stool,infant,NA,NA,NA,NA,1,1,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526043,624_M,624,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526040,624_12M,624,stool,infant,NA,NA,NA,NA,352,352,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526041,624_4M,624,stool,infant,NA,NA,NA,NA,115,115,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526042,624_B,624,stool,infant,NA,NA,NA,NA,NA,NA,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526047,626_M,626,stool,mother,NA,NA,NA,NA,2,2,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526044,626_12M,626,stool,infant,NA,NA,NA,NA,372,372,NA,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526045,626_4M,626,stool,infant,NA,NA,NA,NA,121,121,combined,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526046,626_B,626,stool,infant,NA,NA,NA,NA,2,2,breast,NO,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526051,633_M,633,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526048,633_12M,633,stool,infant,NA,NA,NA,NA,398,398,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526049,633_4M,633,stool,infant,NA,NA,NA,NA,120,120,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526050,633_B,633,stool,infant,NA,NA,NA,NA,NA,NA,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526055,635_M,635,stool,mother,NA,NA,NA,NA,0,0,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526052,635_12M,635,stool,infant,NA,NA,NA,NA,353,353,NA,YES,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526053,635_4M,635,stool,infant,NA,NA,NA,NA,116,116,formula,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526054,635_B,635,stool,infant,NA,NA,NA,NA,2,2,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526059,637_M,637,stool,mother,NA,NA,NA,NA,3,3,NA,NA,female,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526056,637_12M,637,stool,infant,NA,NA,NA,NA,378,378,NA,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526057,637_4M,637,stool,infant,NA,NA,NA,NA,131,131,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526058,637_B,637,stool,infant,NA,NA,NA,NA,3,3,breast,NO,male,vaginal,NA,full-term,NA,SWE
+Backhed,ERR526063,640_M,640,stool,mother,NA,NA,NA,NA,4,4,NA,NA,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526060,640_12M,640,stool,infant,NA,NA,NA,NA,371,371,NA,YES,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526061,640_4M,640,stool,infant,NA,NA,NA,NA,119,119,combined,YES,female,CS,NA,full-term,NA,SWE
+Backhed,ERR526062,640_B,640,stool,infant,NA,NA,NA,NA,4,4,combined,NO,female,CS,NA,full-term,NA,SWE
+Chu,SRR8942350,NCS-005-Stool-maternal_microbiome,5,stool,mother,25-30,22.6187877046826,NO,NO,6wks,42,breast,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942349,NCS-005-Meconium_microbiome,5,stool,infant,25-30,22.6187877046826,NO,NO,birth,0,breast,NO,female,vaginal,NA,full-term,2440,US
+Chu,SRR8942352,NCS-006-Stool-maternal3_microbiome,6,stool,mother,35-40,30.2284332168772,NO,YES,6wks,42,combined,NA,female,CS,Elective_CS,full-term,NA,US
+Chu,SRR8942351,NCS-006-Stool-infant_microbiome,6,stool,infant,35-40,30.2284332168772,NO,YES,6wks,42,combined,NO,female,CS,Elective_CS,full-term,4344,US
+Chu,SRR8942362,NCS-012-Stool-maternal1_microbiome,12,stool,mother,25-30,25.3861111111111,YES,NO,birth,0,breast,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942363,NCS-012-Stool-maternal3_microbiome,12,stool,mother,25-30,25.3861111111111,YES,NO,6wks,42,breast,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942360,NCS-012-Stool-infant_microbiome,12,stool,infant,25-30,25.3861111111111,YES,NO,6wks,42,breast,NO,female,vaginal,NA,full-term,2885,US
+Chu,SRR8942374,NCS-020-Stool-maternal1_microbiome,20,stool,mother,30-35,32.9188345473465,YES,NO,birth,0,breast,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942375,NCS-020-Stool-maternal3_microbiome,20,stool,mother,30-35,32.9188345473465,YES,NO,6wks,42,breast,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942372,NCS-020-Meconium_microbiome,20,stool,infant,30-35,32.9188345473465,YES,NO,birth,0,breast,NO,female,vaginal,NA,full-term,3550,US
+Chu,SRR8942373,NCS-020-Stool-infant_microbiome,20,stool,infant,30-35,32.9188345473465,YES,NO,6wks,42,breast,NO,female,vaginal,NA,full-term,3550,US
+Chu,SRR8942378,NCS-022-Stool-maternal1_microbiome,22,stool,mother,25-30,29.6871588623959,NO,NO,birth,0,breast,NA,female,vaginal,NA,preterm,NA,US
+Chu,SRR8942379,NCS-022-Stool-maternal3_microbiome,22,stool,mother,25-30,29.6871588623959,NO,NO,6wks,42,breast,NA,female,vaginal,NA,preterm,NA,US
+Chu,SRR8942377,NCS-022-Stool-infant_microbiome,22,stool,infant,25-30,29.6871588623959,NO,NO,6wks,42,breast,NO,male,vaginal,NA,preterm,2535,US
+Chu,SRR8942409,NCS-049-Stool-maternal3_microbiome,49,stool,mother,15-20,20.8502224419179,YES,NO,6wks,42,combined,NA,female,vaginal,NA,preterm,NA,US
+Chu,SRR8942408,NCS-049-Meconium1_microbiome,49,stool,infant,15-20,20.8502224419179,YES,NO,birth,0,combined,NO,male,vaginal,NA,preterm,2130,US
+Chu,SRR8942412,NCS-051-Stool-maternal1_microbiome,51,stool,mother,20-25,28.211950059453,NO,NO,birth,0,combined,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942411,NCS-051-Stool-infant_microbiome,51,stool,infant,20-25,28.211950059453,NO,NO,6wks,42,combined,YES,male,vaginal,NA,full-term,2900,US
+Chu,SRR8942419,NCS-064-Stool-maternal1_microbiome,64,stool,mother,25-30,32.7789349112426,NO,NO,birth,0,combined,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942420,NCS-064-Stool-maternal3_microbiome,64,stool,mother,25-30,32.7789349112426,NO,NO,6wks,42,combined,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942418,NCS-064-Stool-infant_microbiome,64,stool,infant,25-30,32.7789349112426,NO,NO,6wks,42,combined,NO,male,vaginal,NA,full-term,2600,US
+Chu,SRR8942425,NCS-072-Stool-maternal1_microbiome,72,stool,mother,25-30,29.2916666666667,NO,YES,birth,0,formula,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942426,NCS-072-Stool-maternal3_microbiome,72,stool,mother,25-30,29.2916666666667,NO,YES,6wks,42,formula,NA,female,vaginal,NA,full-term,NA,US
+Chu,SRR8942423,NCS-072-Meconium1_microbiome,72,stool,infant,25-30,29.2916666666667,NO,YES,birth,0,formula,YES,female,vaginal,NA,full-term,3325,US
+Chu,SRR8942424,NCS-072-Stool-infant_microbiome,72,stool,infant,25-30,29.2916666666667,NO,YES,6wks,42,formula,YES,female,vaginal,NA,full-term,3325,US
+Chu,SRR8942432,NCS-077-Stool-maternal1_microbiome,77,stool,mother,25-30,27.3388888888889,YES,YES,birth,0,combined,NA,female,CS,Elective_CS,full-term,NA,US
+Chu,SRR8942431,NCS-077-Stool-infant_microbiome,77,stool,infant,25-30,27.3388888888889,YES,YES,6wks,42,combined,NO,male,CS,Elective_CS,full-term,3651,US
+Ferretti,SRR5274085,CA_C10002MS2016FE_t0M15,10002,stool,mother,NA,22.8,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274084,CA_C10002IS2023FE_t2M15,10002,stool,infant,NA,22.8,NO,YES,3 days,3,breast,YES,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274082,CA_C10002IS2026FE_t3M15,10002,stool,infant,NA,22.8,NO,YES,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274081,CA_C10002IS2028FE_t4M15,10002,stool,infant,NA,22.8,NO,YES,1 month,30,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274079,CA_C10003MS2030FE_t0M15,10003,stool,mother,NA,24,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274077,CA_C10003IS2040FE_t3M15,10003,stool,infant,NA,24,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274076,CA_C10003IS2042FE_t4M15,10003,stool,infant,NA,24,NO,NO,1 month,30,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274073,CA_C10005MS2062FE_t0M15,10005,stool,mother,25-30,26.4,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274072,CA_C10005IS2066FE_t1M15,10005,stool,infant,25-30,26.4,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274070,CA_C10005IS2069FE_t2M15,10005,stool,infant,25-30,26.4,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274069,CA_C10005IS2077FE_t4M15,10005,stool,infant,25-30,26.4,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274068,CA_C10005IS2077FE_t5M15,10005,stool,infant,25-30,26.4,NO,NO,4 months,120,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274058,CA_C10007MS2098FE_t0M15,10007,stool,mother,30-35,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274054,CA_C10007IS2102FE_t1M15,10007,stool,infant,30-35,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274053,CA_C10007IS2105FE_t2M15,10007,stool,infant,30-35,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274051,CA_C10007IS2110FE_t3M15,10007,stool,infant,30-35,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274050,CA_C10007IS2114FE_t4M15,10007,stool,infant,30-35,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274049,CA_C10007IS2113FE_t5M16,10007,stool,infant,30-35,22.9,NO,NO,4 months,120,breast,YES,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274032,CA_C10009MS2134FE_t0M15,10009,stool,mother,35-40,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274040,CA_C10009IS2138FE_t1M15,10009,stool,infant,35-40,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274038,CA_C10009IS2141FE_t2M15,10009,stool,infant,35-40,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274035,CA_C10009IS2145FE_t3M16,10009,stool,infant,35-40,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274036,CA_C10009IS2149FE_t4M15,10009,stool,infant,35-40,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274034,CA_C10009IS2149FE_t5M16,10009,stool,infant,35-40,22.9,NO,NO,4 months,120,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274023,CA_C10015MS2242FE_t0M15,10015,stool,mother,25-30,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274028,CA_C10015IS2246FE_t1M15,10015,stool,infant,25-30,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274026,CA_C10015IS2249FE_t2M15,10015,stool,infant,25-30,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274029,CA_C10015IS2235FE_t3M15,10015,stool,infant,25-30,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274015,CA_C10019MS2314FE_t0M16,10019,stool,mother,35-40,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274022,CA_C10019IS2318FE_t1M15,10019,stool,infant,35-40,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274021,CA_C10019IS2321FE_t2M15,10019,stool,infant,35-40,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274018,CA_C10019IS2352FE_t3M15,10019,stool,infant,35-40,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274019,CA_C10019IS2329FE_t4M15,10019,stool,infant,35-40,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274014,CA_C10019IS2329FE_t5M16,10019,stool,infant,35-40,22.9,NO,NO,4 months,120,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274010,CA_C10020MS2332FE_t0M15,10020,stool,mother,40-45,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274013,CA_C10020IS2336FE_t1M15,10020,stool,infant,40-45,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274012,CA_C10020IS2339FE_t2M15,10020,stool,infant,40-45,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274011,CA_C10020IS2343FE_t3M15,10020,stool,infant,40-45,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274007,CA_C10020IS2347FE_t4M15,10020,stool,infant,40-45,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274006,CA_C10020IS2345FE_t5M16,10020,stool,infant,40-45,22.9,NO,NO,4 months,120,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274000,CA_C10023MS2386FE_t0M15,10023,stool,mother,30-35,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274005,CA_C10023IS2390FE_t1M15,10023,stool,infant,30-35,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5274004,CA_C10023IS2393FE_t2M15,10023,stool,infant,30-35,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273999,CA_C10023IS2397FE_t3M15,10023,stool,infant,30-35,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273998,CA_C10023IS2401FE_t4M16,10023,stool,infant,30-35,22.9,NO,NO,1 month,30,breast,YES,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273997,CA_C10023IS2401FE_t5M16,10023,stool,infant,30-35,22.9,NO,NO,4 months,120,breast,YES,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273984,CA_C10026MS2440FE_t0M15,10026,stool,mother,35-40,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273988,CA_C10026IS2444FE_t1M15,10026,stool,infant,35-40,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273987,CA_C10026IS2449FE_t2M15,10026,stool,infant,35-40,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273986,CA_C10026IS2451FE_t3M15,10026,stool,infant,35-40,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273982,CA_C10026IS2465FE_t4M16,10026,stool,infant,35-40,22.9,NO,NO,1 month,30,combined,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273975,CA_C10029MS2492FE_t0M15,10029,stool,mother,25-30,22.9,YES,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273977,CA_C10029IS2496FE_t1M15,10029,stool,infant,25-30,22.9,YES,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273976,CA_C10029IS2499FE_t2M15,10029,stool,infant,25-30,22.9,YES,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273974,CA_C10029IS2503FE_t3M15,10029,stool,infant,25-30,22.9,YES,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273967,CA_C10031MS2526FE_t0M15,10031,stool,mother,35-40,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273964,CA_C10031IS2530FE_t1M15,10031,stool,infant,35-40,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273966,CA_C10031IS2537FE_t3M15,10031,stool,infant,35-40,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273965,CA_C10031IS2541FE_t4M15,10031,stool,infant,35-40,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273963,CA_C10031IS2541FE_t5M16,10031,stool,infant,35-40,22.9,NO,NO,4 months,120,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273954,CA_C10032MS2544FE_t0M15,10032,stool,mother,35-40,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273962,CA_C10032IS2548FE_t1M15,10032,stool,infant,35-40,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273961,CA_C10032IS2551FE_t2M15,10032,stool,infant,35-40,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273959,CA_C10032IS2555FE_t3M15,10032,stool,infant,35-40,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273957,CA_C10032IS2559FE_t4M15,10032,stool,infant,35-40,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273956,CA_C10032IS2559FE_t5M16,10032,stool,infant,35-40,22.9,NO,NO,4 months,120,formula,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273948,CA_C10034MS2580FE_t0M15,10034,stool,mother,30-35,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273952,CA_C10034IS2584FE_t1M15,10034,stool,infant,30-35,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273951,CA_C10034IS2587FE_t2M15,10034,stool,infant,30-35,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273944,CA_C10034IS2591FE_t3M15,10034,stool,infant,30-35,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273943,CA_C10034IS2595FE_t4M15,10034,stool,infant,30-35,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273938,CA_C10035MS2598FE_t0M15,10035,stool,mother,35-40,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273942,CA_C10035IS2602FE_t1M15,10035,stool,infant,35-40,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273941,CA_C10035IS2605FE_t2M15,10035,stool,infant,35-40,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273934,CA_C10035IS2609FE_t3M16,10035,stool,infant,35-40,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273933,CA_C10035IS2913FE_t4M16,10035,stool,infant,35-40,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273930,CA_C10039MS2670FE_t0M16,10039,stool,mother,30-35,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273929,CA_C10039IS2677FE_t2M16,10039,stool,infant,30-35,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273928,CA_C10039IS2681FE_t3M16,10039,stool,infant,30-35,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273922,CA_C10042MS2724FE_t0M16,10042,stool,mother,30-35,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273920,CA_C10042IS2731FE_t2M16,10042,stool,infant,30-35,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273919,CA_C10042IS2735FE_t3M16,10042,stool,infant,30-35,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273918,CA_C10042IS2739FE_t4M16,10042,stool,infant,30-35,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273917,CA_C10042IS2739FE_t5M16,10042,stool,infant,30-35,22.9,NO,NO,4 months,120,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273912,CA_C10043MS2742FE_t0M16,10043,stool,mother,NA,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273915,CA_C10043IS2749FE_t2M16,10043,stool,infant,NA,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273899,CA_C10049MS2850FE_t0M16,10049,stool,mother,30-35,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273905,CA_C10049IS2854FE_t1M16,10049,stool,infant,30-35,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273900,CA_C10049IS2857FE_t2M16,10049,stool,infant,30-35,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273903,CA_C10049IS2861FE_t3M16,10049,stool,infant,30-35,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273902,CA_C10049IS2866FE_t4M16,10049,stool,infant,30-35,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273901,CA_C10049IS2866FE_t5M16,10049,stool,infant,30-35,22.9,NO,NO,4 months,120,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273895,CA_C10052MS2904FE_t0M16,10052,stool,mother,45-50,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273892,CA_C10052IS2908FE_t1M16,10052,stool,infant,45-50,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273891,CA_C10052IS2911FE_t2M16,10052,stool,infant,45-50,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273889,CA_C10052IS2915FE_t3M16,10052,stool,infant,45-50,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273888,CA_C10052IS2920FE_t5M16,10052,stool,infant,45-50,22.9,NO,NO,4 months,120,combined,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273882,CA_C10055MS2958FE_t0M16,10055,stool,mother,30-35,22.9,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273887,CA_C10055IS2962FE_t1M16,10055,stool,infant,30-35,22.9,NO,NO,1 day,1,breast,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273886,CA_C10055IS2965FE_t2M16,10055,stool,infant,30-35,22.9,NO,NO,3 days,3,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273884,CA_C10055IS2969FE_t3M16,10055,stool,infant,30-35,22.9,NO,NO,7 days,7,NA,NA,NA,vaginal,NA,full-term,NA,ITA_2
+Ferretti,SRR5273878,CA_C10055IS2973FE_t4M16,10055,stool,infant,30-35,22.9,NO,NO,1 month,30,breast,NO,NA,vaginal,NA,full-term,NA,ITA_2
+Parnanen,SRR5723865,23LO_AU2,23,stool,mother,NA,NA,NA,YES,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723866,23LO_LU2,23,stool,infant,NA,NA,NA,YES,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723867,23LO_LU4,23,stool,infant,NA,NA,NA,YES,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723871,60AZ_AU2,60,stool,mother,NA,NA,NA,NO,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723862,60AZ_LU2,60,stool,infant,NA,NA,NA,NO,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723863,60AZ_LU4,60,stool,infant,NA,NA,NA,NO,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723848,73FU_AU2,73,stool,mother,NA,NA,NA,NO,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723847,73FU_LU2,73,stool,infant,NA,NA,NA,NO,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723846,73FU_LU4,73,stool,infant,NA,NA,NA,NO,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723842,85CX_AU2,85,stool,mother,NA,NA,NA,NO,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723854,85CX_LU2,85,stool,infant,NA,NA,NA,NO,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723855,85CX_LU4,85,stool,infant,NA,NA,NA,NO,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723859,91FU_AU2,91,stool,mother,NA,NA,NA,NO,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723856,91FU_LU2,91,stool,infant,NA,NA,NA,NO,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723857,91FU_LU4,91,stool,infant,NA,NA,NA,NO,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723826,94FU_AU2,94,stool,mother,NA,NA,NA,YES,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723829,94FU_LU2,94,stool,infant,NA,NA,NA,YES,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723828,94FU_LU4,94,stool,infant,NA,NA,NA,YES,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723810,134HS_AU2,134,stool,mother,NA,NA,NA,YES,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723809,134HS_LU2,134,stool,infant,NA,NA,NA,YES,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723808,134HS_LU4,134,stool,infant,NA,NA,NA,YES,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723812,138IR_AU2,138,stool,mother,NA,NA,NA,YES,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723807,138IR_LU2,138,stool,infant,NA,NA,NA,YES,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723806,138IR_LU4,138,stool,infant,NA,NA,NA,YES,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723836,140BY_AU2,140,stool,mother,NA,NA,NA,NO,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723839,140BY_LU2,140,stool,infant,NA,NA,NA,NO,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723838,140BY_LU4,140,stool,infant,NA,NA,NA,NO,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723832,164LO_AU2,164,stool,mother,NA,NA,NA,YES,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723822,164LO_LU2,164,stool,infant,NA,NA,NA,YES,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723823,164LO_LU4,164,stool,infant,NA,NA,NA,YES,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723819,172JQ_AU2,172,stool,mother,NA,NA,NA,YES,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723820,172JQ_LU2,172,stool,infant,NA,NA,NA,YES,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723821,172JQ_LU4,172,stool,infant,NA,NA,NA,YES,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723798,190LO_AU2,190,stool,mother,NA,NA,NA,YES,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723797,190LO_LU2,190,stool,infant,NA,NA,NA,YES,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723796,190LO_LU4,190,stool,infant,NA,NA,NA,YES,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723800,198KP_AU2,198,stool,mother,NA,NA,NA,NO,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723805,198KP_LU2,198,stool,infant,NA,NA,NA,NO,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723804,198KP_LU4,198,stool,infant,NA,NA,NA,NO,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723887,202HS_AU2,202,stool,mother,NA,NA,NA,NO,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723884,202HS_LU2,202,stool,infant,NA,NA,NA,NO,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723885,202HS_LU4,202,stool,infant,NA,NA,NA,NO,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723891,206FU_AU2,206,stool,mother,NA,NA,NA,NO,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723877,206FU_LU2,206,stool,infant,NA,NA,NA,NO,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723876,206FU_LU4,206,stool,infant,NA,NA,NA,NO,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723872,211CX_AU2,211,stool,mother,NA,NA,NA,YES,1MONTH,30,NA,NA,female,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723875,211CX_LU2,211,stool,infant,NA,NA,NA,YES,1MONTH,30,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Parnanen,SRR5723874,211CX_LU4,211,stool,infant,NA,NA,NA,YES,6MONTH,180,NA,NO,NA,vaginal,NA,full-term,NA,FIN_1
+Shao,ERR3404663,513122_Birth,513122,stool,mother,NA,NA,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404626,513122_10,513122,stool,infant,NA,NA,NO,NO,10,10,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404627,513122_12,513122,stool,infant,NA,NA,NO,NO,12,12,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404628,513122_21,513122,stool,infant,NA,NA,NO,NO,21,21,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404624,513122_4,513122,stool,infant,NA,NA,NO,NO,4,4,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404625,513122_6,513122,stool,infant,NA,NA,NO,NO,6,6,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404664,514124_Birth,514124,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404629,514124_4,514124,stool,infant,NA,NA,NO,NA,4,4,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404630,514124_6,514124,stool,infant,NA,NA,NO,NA,6,6,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404631,514124_7,514124,stool,infant,NA,NA,NO,NA,7,7,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404632,514124_8,514124,stool,infant,NA,NA,NO,NA,8,8,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404666,515126_Birth,515126,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3404672,515126_10,515126,stool,infant,NA,NA,NO,NA,10,10,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3404673,515126_11,515126,stool,infant,NA,NA,NO,NA,11,11,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3404674,515126_21,515126,stool,infant,NA,NA,NO,NA,21,21,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3404670,515126_4,515126,stool,infant,NA,NA,NO,NA,4,4,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3404671,515126_7,515126,stool,infant,NA,NA,NO,NA,7,7,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3404667,515127_Birth,515127,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3404675,515127_7,515127,stool,infant,NA,NA,NO,NA,7,7,NA,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3404669,519128_Birth,519128,stool,mother,NA,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404682,519128_12,519128,stool,infant,NA,NA,NO,YES,12,12,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404683,519128_14,519128,stool,infant,NA,NA,NO,YES,14,14,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404684,519128_18,519128,stool,infant,NA,NA,NO,YES,18,18,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404685,519128_21,519128,stool,infant,NA,NA,NO,YES,21,21,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404680,519128_4,519128,stool,infant,NA,NA,NO,YES,4,4,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404681,519128_7,519128,stool,infant,NA,NA,NO,YES,7,7,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404662,519129_Birth,519129,stool,mother,NA,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404658,519129_12,519129,stool,infant,NA,NA,NO,YES,12,12,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404659,519129_14,519129,stool,infant,NA,NA,NO,YES,14,14,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404660,519129_21,519129,stool,infant,NA,NA,NO,YES,21,21,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404656,519129_4,519129,stool,infant,NA,NA,NO,YES,4,4,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404657,519129_7,519129,stool,infant,NA,NA,NO,YES,7,7,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3404661,521130_Birth,521130,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3404644,521130_10,521130,stool,infant,NA,NA,NO,NA,10,10,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3404645,521130_12,521130,stool,infant,NA,NA,NO,NA,12,12,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3404646,521130_21,521130,stool,infant,NA,NA,NO,NA,21,21,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3404643,521130_4,521130,stool,infant,NA,NA,NO,NA,4,4,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3404668,604136_Birth,604136,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404677,604136_10,604136,stool,infant,NA,NA,NO,NA,10,10,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404678,604136_11,604136,stool,infant,NA,NA,NO,NA,11,11,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404679,604136_14,604136,stool,infant,NA,NA,NO,NA,14,14,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404676,604136_7,604136,stool,infant,NA,NA,NO,NA,7,7,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404665,606141_Birth,606141,stool,mother,NA,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3800,UK
+Shao,ERR3404636,606141_10,606141,stool,infant,NA,NA,NO,YES,10,10,NA,NA,female,CS,Elective_CS,full-term,3800,UK
+Shao,ERR3404637,606141_12,606141,stool,infant,NA,NA,NO,YES,12,12,NA,NA,female,CS,Elective_CS,full-term,3800,UK
+Shao,ERR3404633,606141_4,606141,stool,infant,NA,NA,NO,YES,4,4,NA,NA,female,CS,Elective_CS,full-term,3800,UK
+Shao,ERR3404634,606141_7,606141,stool,infant,NA,NA,NO,YES,7,7,NA,NA,female,CS,Elective_CS,full-term,3800,UK
+Shao,ERR3404635,606141_8,606141,stool,infant,NA,NA,NO,YES,8,8,NA,NA,female,CS,Elective_CS,full-term,3800,UK
+Shao,ERR3404869,A00106_Birth,A00106,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,1700,UK
+Shao,ERR3404870,A00106_21,A00106,stool,infant,30-35,NA,NO,NA,21,21,combined,YES,male,vaginal,NA,full-term,1700,UK
+Shao,ERR3404869T1,A00106T_Birth,A00106T,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,1700,UK
+Shao,ERR3404871,A00106T_21,A00106T,stool,infant,30-35,NA,NO,NA,21,21,combined,YES,male,vaginal,NA,full-term,1700,UK
+Shao,ERR3404855,A00134_Birth,A00134,stool,mother,45-50,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3404856,A00134_21,A00134,stool,infant,45-50,NA,NO,YES,21,21,formula,NA,male,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3404907,A00163_Birth,A00163,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404908,A00163_4,A00163,stool,infant,35-40,NA,NO,NA,4,4,combined,NA,male,vaginal,NA,full-term,3900,UK
+Shao,ERR3404894,A00185_Birth,A00185,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,4800,UK
+Shao,ERR3404895,A00185_4,A00185,stool,infant,30-35,NA,NO,YES,4,4,breast,NA,male,CS,Elective_CS,full-term,4800,UK
+Shao,ERR3404896,A00185_7,A00185,stool,infant,30-35,NA,NO,YES,7,7,breast,NA,male,CS,Elective_CS,full-term,4800,UK
+Shao,ERR3404952,A00539_Birth,A00539,stool,mother,30-35,NA,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404957,A00539_7,A00539,stool,infant,30-35,NA,NO,NO,7,7,combined,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404961,A00570_Birth,A00570,stool,mother,40-45,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3700,UK
+Shao,ERR3404970,A00570_4,A00570,stool,infant,40-45,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,3700,UK
+Shao,ERR3405114,A00570_7,A00570,stool,infant,40-45,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,3700,UK
+Shao,ERR3404962,A00576_Birth,A00576,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405000,A00576_21,A00576,stool,infant,25-30,NA,NO,NA,21,21,breast,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3404976,A00576_4,A00576,stool,infant,25-30,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405116,A00576_7,A00576,stool,infant,25-30,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405117,A00908_Birth,A00908,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,2100,UK
+Shao,ERR3405038,A00908_21,A00908,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,female,CS,Elective_CS,full-term,2100,UK
+Shao,ERR3404992,A00908_4,A00908,stool,infant,30-35,NA,NO,YES,4,4,combined,NA,female,CS,Elective_CS,full-term,2100,UK
+Shao,ERR3404983,A00940_Birth,A00940,stool,mother,40-45,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3700,UK
+Shao,ERR3404997,A00940_4,A00940,stool,infant,40-45,NA,NO,NA,4,4,breast,NA,female,vaginal,NA,full-term,3700,UK
+Shao,ERR3404982,A00942_Birth,A00942,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3405029,A00942_21,A00942,stool,infant,35-40,NA,NO,NA,21,21,breast,NA,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3404974,A00942_4,A00942,stool,infant,35-40,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3404991,A00942_7,A00942,stool,infant,35-40,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3405010,A01011_Birth,A01011,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3404979,A01011_4,A01011,stool,infant,35-40,NA,NO,YES,4,4,breast,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3405021,A01011_7,A01011,stool,infant,35-40,NA,NO,YES,7,7,breast,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3405946,A01015_Birth,A01015,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405948,A01015_21,A01015,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,female,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405878,A01015_350.0000001,A01015,stool,infant,30-35,NA,NO,YES,350.00000009999997,350.00000009999997,combined,NA,female,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405061,A01107_Birth,A01107,stool,mother,25-30,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3405086,A01107_21,A01107,stool,infant,25-30,NA,NO,YES,21,21,breast,NA,male,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3405045,A01107_4,A01107,stool,infant,25-30,NA,NO,YES,4,4,breast,NA,male,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3405133,A01107_7,A01107,stool,infant,25-30,NA,NO,YES,7,7,breast,NA,male,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3405141,A01563_Birth,A01563,stool,mother,25-30,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3405241,A01563_21,A01563,stool,infant,25-30,NA,NO,YES,21,21,combined,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3405142,A01563_4,A01563,stool,infant,25-30,NA,NO,YES,4,4,combined,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3405242,A01563_7,A01563,stool,infant,25-30,NA,NO,YES,7,7,combined,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3405244,A01569_Birth,A01569,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405243,A01569_7,A01569,stool,infant,25-30,NA,NO,NA,7,7,combined,NA,male,vaginal,NA,full-term,3200,UK
+Shao,ERR3405261,A01761_Birth,A01761,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405355,A01761_21,A01761,stool,infant,35-40,NA,NO,NA,21,21,breast,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405989,A01761_255.99999999,A01761,stool,infant,35-40,NA,NO,NA,255.99999998999968,255.99999998999968,NA,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405260,A01761_4,A01761,stool,infant,35-40,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405356,A01761_7,A01761,stool,infant,35-40,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405263,A01763_Birth,A01763,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405864,A01763_258.99999999,A01763,stool,infant,30-35,NA,NO,NA,258.99999998999971,258.9999999899997,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405262,A01763_4,A01763,stool,infant,30-35,NA,NO,NA,4,4,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405791,A01763_7,A01763,stool,infant,30-35,NA,NO,NA,7,7,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405967,A01803_Birth,A01803,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3405809,A01803_21,A01803,stool,infant,35-40,NA,NO,YES,21,21,breast,NA,male,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3405990,A01803_252,A01803,stool,infant,35-40,NA,NO,YES,252,252,combined,NA,male,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3405792,A01803_4,A01803,stool,infant,35-40,NA,NO,YES,4,4,breast,NA,male,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3405363,A01805_Birth,A01805,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3405360,A01805_21,A01805,stool,infant,30-35,NA,NO,NA,21,21,combined,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3405858,A01805_252,A01805,stool,infant,30-35,NA,NO,NA,252,252,combined,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3405361,A01805_4,A01805,stool,infant,30-35,NA,NO,NA,4,4,combined,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3405362,A01805_7,A01805,stool,infant,30-35,NA,NO,NA,7,7,combined,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3405738,A01963_Birth,A01963,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,4200,UK
+Shao,ERR3405993,A01963_239.00000001,A01963,stool,infant,30-35,NA,NO,NA,239.00000001000001,239.00000001,combined,NA,male,vaginal,NA,full-term,4200,UK
+Shao,ERR3406041,A01963_4,A01963,stool,infant,30-35,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,4200,UK
+Shao,ERR3405657,A01963_7,A01963,stool,infant,30-35,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,4200,UK
+Shao,ERR3405973,A01970_Birth,A01970,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3000,UK
+Shao,ERR3405814,A01970_21,A01970,stool,infant,40-45,NA,NO,YES,21,21,combined,NA,female,CS,Elective_CS,full-term,3000,UK
+Shao,ERR3406193,A01970_278.00000001,A01970,stool,infant,40-45,NA,NO,YES,278.00000001000001,278.00000001,combined,NA,female,CS,Elective_CS,full-term,3000,UK
+Shao,ERR3405970,A01970_7,A01970,stool,infant,40-45,NA,NO,YES,7,7,breast,NA,female,CS,Elective_CS,full-term,3000,UK
+Shao,ERR3405461,A02064_Birth,A02064,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405458,A02064_21,A02064,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3406244,A02064_273,A02064,stool,infant,30-35,NA,NO,YES,273,273,combined,NO,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405459,A02064_4,A02064,stool,infant,30-35,NA,NO,YES,4,4,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405460,A02064_7,A02064,stool,infant,30-35,NA,NO,YES,7,7,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405977,A02080_Birth,A02080,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3600,UK
+Shao,ERR3405870,A02080_216.99999999,A02080,stool,infant,35-40,NA,NO,YES,216.99999998999999,216.99999999,NA,NA,female,CS,Emergency_CS,full-term,3600,UK
+Shao,ERR3405848,A02080_7,A02080,stool,infant,35-40,NA,NO,YES,7,7,combined,YES,female,CS,Emergency_CS,full-term,3600,UK
+Shao,ERR3405471,A02110_Birth,A02110,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405992,A02110_207.99999999,A02110,stool,infant,30-35,NA,NO,YES,207.99999998999999,207.99999999,combined,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405468,A02110_21,A02110,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405469,A02110_4,A02110,stool,infant,30-35,NA,NO,YES,4,4,breast,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405470,A02110_7,A02110,stool,infant,30-35,NA,NO,YES,7,7,breast,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405478,A02138_Birth,A02138,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405475,A02138_21,A02138,stool,infant,35-40,NA,NO,YES,21,21,breast,NO,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405879,A02138_213,A02138,stool,infant,35-40,NA,NO,YES,213,213,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405476,A02138_4,A02138,stool,infant,35-40,NA,NO,YES,4,4,breast,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405477,A02138_7,A02138,stool,infant,35-40,NA,NO,YES,7,7,breast,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405982,A02193_Birth,A02193,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405877,A02193_204,A02193,stool,infant,35-40,NA,NO,NA,204,204,combined,NA,male,vaginal,NA,full-term,3800,UK
+Shao,ERR3405832,A02193_7,A02193,stool,infant,35-40,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,3800,UK
+Shao,ERR3405719,A02767_Birth,A02767,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2800,UK
+Shao,ERR3406259,A02767_189,A02767,stool,infant,25-30,NA,NO,NA,189,189,combined,NA,female,vaginal,NA,full-term,2800,UK
+Shao,ERR3405717,A02767_7,A02767,stool,infant,25-30,NA,NO,NA,7,7,breast,NO,female,vaginal,NA,full-term,2800,UK
+Shao,ERR3405692,A02819_Birth,A02819,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3406254,A02819_176.00000001,A02819,stool,infant,35-40,NA,NO,YES,176.0000000099997,176.0000000099997,combined,NA,male,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3405724,A02819_7,A02819,stool,infant,35-40,NA,NO,YES,7,7,breast,NO,male,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3405694,A02872_Birth,A02872,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3406263,A02872_179.00000001,A02872,stool,infant,35-40,NA,NO,YES,179.00000001000001,179.00000001,NA,NA,male,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3405723,A02872_7,A02872,stool,infant,35-40,NA,NO,YES,7,7,breast,NO,male,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3405727,A02913_Birth,A02913,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3406279,A02913_180.99999999,A02913,stool,infant,30-35,NA,NO,YES,180.99999998999971,180.9999999899997,formula,NO,male,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405726,A02913_7,A02913,stool,infant,30-35,NA,NO,YES,7,7,formula,NO,male,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3404762,B00004_Birth,B00004,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3404764,B00004_21,B00004,stool,infant,40-45,NA,NO,YES,21,21,combined,YES,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3404763,B00004_7,B00004,stool,infant,40-45,NA,NO,YES,7,7,breast,YES,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3404766,B00012_Birth,B00012,stool,mother,NA,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3404767,B00012_4,B00012,stool,infant,NA,NA,NO,YES,4,4,breast,NO,male,vaginal,NA,full-term,2900,UK
+Shao,ERR3404768,B00012_7,B00012,stool,infant,NA,NA,NO,YES,7,7,breast,NO,male,vaginal,NA,full-term,2900,UK
+Shao,ERR3404790,B00040_Birth,B00040,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404791,B00040_4,B00040,stool,infant,NA,NA,NO,NA,4,4,breast,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3404797,B00046_Birth,B00046,stool,mother,NA,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3404800,B00046_21,B00046,stool,infant,NA,NA,NO,YES,21,21,breast,YES,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3404798,B00046_4,B00046,stool,infant,NA,NA,NO,YES,4,4,breast,YES,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3404799,B00046_7,B00046,stool,infant,NA,NA,NO,YES,7,7,breast,YES,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3404822,B00075_Birth,B00075,stool,mother,20-25,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3200,UK
+Shao,ERR3404825,B00075_21,B00075,stool,infant,20-25,NA,NO,YES,21,21,combined,NA,male,CS,Emergency_CS,full-term,3200,UK
+Shao,ERR3404823,B00075_4,B00075,stool,infant,20-25,NA,NO,YES,4,4,combined,NA,male,CS,Emergency_CS,full-term,3200,UK
+Shao,ERR3404824,B00075_7,B00075,stool,infant,20-25,NA,NO,YES,7,7,combined,NA,male,CS,Emergency_CS,full-term,3200,UK
+Shao,ERR3404842,B00099_Birth,B00099,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,4500,UK
+Shao,ERR3404843,B00099_4,B00099,stool,infant,35-40,NA,NO,NA,4,4,breast,NO,male,vaginal,NA,full-term,4500,UK
+Shao,ERR3404844,B00099_7,B00099,stool,infant,35-40,NA,NO,NA,7,7,breast,NO,male,vaginal,NA,full-term,4500,UK
+Shao,ERR3404881,B00139_Birth,B00139,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3404883,B00139_21,B00139,stool,infant,30-35,NA,NO,YES,21,21,formula,NO,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3404882,B00139_7,B00139,stool,infant,30-35,NA,NO,YES,7,7,formula,NO,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3404919,B00220_Birth,B00220,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3700,UK
+Shao,ERR3404920,B00220_4,B00220,stool,infant,30-35,NA,NO,NA,4,4,formula,NA,male,vaginal,NA,full-term,3700,UK
+Shao,ERR3404926,B00238_Birth,B00238,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3404940,B00238_7,B00238,stool,infant,30-35,NA,NO,YES,7,7,breast,NA,female,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3404954,B00537_Birth,B00537,stool,mother,40-45,NA,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3404967,B00537_21,B00537,stool,infant,40-45,NA,NO,NO,21,21,breast,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3404951,B00537_4,B00537,stool,infant,40-45,NA,NO,NO,4,4,breast,YES,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3404946,B00537_7,B00537,stool,infant,40-45,NA,NO,NO,7,7,breast,YES,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3404955,B00550_Birth,B00550,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,4400,UK
+Shao,ERR3404969,B00550_21,B00550,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,female,CS,Elective_CS,full-term,4400,UK
+Shao,ERR3405123,B00922_Birth,B00922,stool,mother,25-30,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,4100,UK
+Shao,ERR3404978,B00922_7,B00922,stool,infant,25-30,NA,NO,YES,7,7,combined,NA,male,vaginal,NA,full-term,4100,UK
+Shao,ERR3405042,B01022_Birth,B01022,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,4000,UK
+Shao,ERR3404999,B01022_7,B01022,stool,infant,30-35,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,4000,UK
+Shao,ERR3405002,B01027_Birth,B01027,stool,mother,35-40,NA,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405024,B01027_7,B01027,stool,infant,35-40,NA,NO,NO,7,7,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405014,B01034_Birth,B01034,stool,mother,25-30,NA,YES,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3405028,B01034_7,B01034,stool,infant,25-30,NA,YES,YES,7,7,combined,NA,male,CS,Elective_CS,full-term,3500,UK
+Shao,ERR3405016,B01039_Birth,B01039,stool,mother,20-25,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405013,B01039_7,B01039,stool,infant,20-25,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405015,B01042_Birth,B01042,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405032,B01042_10,B01042,stool,infant,30-35,NA,NO,YES,10,10,breast,NA,male,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405026,B01042_7,B01042,stool,infant,30-35,NA,NO,YES,7,7,breast,NA,male,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405017,B01089_Birth,B01089,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3900,UK
+Shao,ERR3405066,B01089_21,B01089,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,female,CS,Elective_CS,full-term,3900,UK
+Shao,ERR3405035,B01089_4,B01089,stool,infant,35-40,NA,NO,YES,4,4,combined,NA,female,CS,Elective_CS,full-term,3900,UK
+Shao,ERR3405036,B01089_7,B01089,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,female,CS,Elective_CS,full-term,3900,UK
+Shao,ERR3405201,B01128_Birth,B01128,stool,mother,30-35,NA,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405200,B01128_7,B01128,stool,infant,30-35,NA,NO,NO,7,7,breast,NA,male,vaginal,NA,full-term,3200,UK
+Shao,ERR3405060,B01194_Birth,B01194,stool,mother,25-30,NA,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3405097,B01194_21,B01194,stool,infant,25-30,NA,NO,NO,21,21,formula,NA,male,vaginal,NA,full-term,3300,UK
+Shao,ERR3406053,B01194_375.9999999,B01194,stool,infant,25-30,NA,NO,NO,375.99999989999998,375.9999999,NA,NA,male,vaginal,NA,full-term,3300,UK
+Shao,ERR3405054,B01194_4,B01194,stool,infant,25-30,NA,NO,NO,4,4,formula,NA,male,vaginal,NA,full-term,3300,UK
+Shao,ERR3405072,B01194_7,B01194,stool,infant,25-30,NA,NO,NO,7,7,formula,NA,male,vaginal,NA,full-term,3300,UK
+Shao,ERR3405203,B01234_Birth,B01234,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3406054,B01234_377.0000001,B01234,stool,infant,30-35,NA,NO,NA,377.00000010000002,377.0000001,NA,NA,male,vaginal,NA,full-term,3900,UK
+Shao,ERR3405202,B01234_7,B01234,stool,infant,30-35,NA,NO,NA,7,7,breast,YES,male,vaginal,NA,full-term,3900,UK
+Shao,ERR3405077,B01261_Birth,B01261,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405101,B01261_21,B01261,stool,infant,25-30,NA,NO,NA,21,21,formula,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405079,B01261_4,B01261,stool,infant,25-30,NA,NO,NA,4,4,formula,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405080,B01261_7,B01261,stool,infant,25-30,NA,NO,NA,7,7,formula,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405078,B01277_Birth,B01277,stool,mother,20-25,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405164,B01277_21,B01277,stool,infant,20-25,NA,NO,NA,21,21,breast,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405095,B01277_4,B01277,stool,infant,20-25,NA,NO,NA,4,4,breast,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405099,B01277_7,B01277,stool,infant,20-25,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405093,B01340_Birth,B01340,stool,mother,20-25,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405108,B01340_14,B01340,stool,infant,20-25,NA,NO,NA,14,14,formula,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405102,B01340_4,B01340,stool,infant,20-25,NA,NO,NA,4,4,formula,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405103,B01340_7,B01340,stool,infant,20-25,NA,NO,NA,7,7,formula,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405094,B01364_Birth,B01364,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3405187,B01364_21,B01364,stool,infant,30-35,NA,NO,NA,21,21,formula,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3405925,B01364_342.9999999,B01364,stool,infant,30-35,NA,NO,NA,342.99999989999998,342.9999999,formula,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3405107,B01364_4,B01364,stool,infant,30-35,NA,NO,NA,4,4,formula,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3405110,B01364_7,B01364,stool,infant,30-35,NA,NO,NA,7,7,formula,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3405214,B01368_Birth,B01368,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405213,B01368_7,B01368,stool,infant,25-30,NA,NO,NA,7,7,combined,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405174,B01408_Birth,B01408,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3405150,B01408_21,B01408,stool,infant,30-35,NA,NO,NA,21,21,combined,NA,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3405172,B01408_4,B01408,stool,infant,30-35,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3406021,B01408_428.000000099997,B01408,stool,infant,30-35,NA,NO,NA,428.00000009999701,428.00000009999707,combined,NA,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3405170,B01408_7,B01408,stool,infant,30-35,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3405485,B01409_Birth,B01409,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405144,B01409_21,B01409,stool,infant,25-30,NA,NO,NA,21,21,breast,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405217,B01409_4,B01409,stool,infant,25-30,NA,NO,NA,4,4,combined,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405484,B01409_7,B01409,stool,infant,25-30,NA,NO,NA,7,7,combined,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405145,B01471_Birth,B01471,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3100,UK
+Shao,ERR3405267,B01471_21,B01471,stool,infant,35-40,NA,NO,YES,21,21,breast,NA,female,CS,Elective_CS,full-term,3100,UK
+Shao,ERR3405157,B01471_7,B01471,stool,infant,35-40,NA,NO,YES,7,7,breast,NA,female,CS,Elective_CS,full-term,3100,UK
+Shao,ERR3405296,B01716_Birth,B01716,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3406014,B01716_294,B01716,stool,infant,35-40,NA,NO,NA,294,294,combined,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3405295,B01716_7,B01716,stool,infant,35-40,NA,NO,NA,7,7,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3405299,B01719_Birth,B01719,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3405376,B01719_21,B01719,stool,infant,30-35,NA,NO,NA,21,21,combined,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3406057,B01719_297,B01719,stool,infant,30-35,NA,NO,NA,297,297,combined,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3405297,B01719_4,B01719,stool,infant,30-35,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3405298,B01719_7,B01719,stool,infant,30-35,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3405958,B01771_Birth,B01771,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,4200,UK
+Shao,ERR3406198,B01771_297.99999999,B01771,stool,infant,35-40,NA,NO,NA,297.99999998999999,297.99999999,combined,NA,female,vaginal,NA,full-term,4200,UK
+Shao,ERR3405961,B01771_4,B01771,stool,infant,35-40,NA,NO,NA,4,4,breast,NA,female,vaginal,NA,full-term,4200,UK
+Shao,ERR3405959,B01771_7,B01771,stool,infant,35-40,NA,NO,NA,7,7,combined,NA,female,vaginal,NA,full-term,4200,UK
+Shao,ERR3405380,B01772_Birth,B01772,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405377,B01772_21,B01772,stool,infant,30-35,NA,NO,YES,21,21,formula,NA,female,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3406011,B01772_285,B01772,stool,infant,30-35,NA,NO,YES,285,285,formula,NA,female,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405378,B01772_4,B01772,stool,infant,30-35,NA,NO,YES,4,4,formula,NA,female,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405379,B01772_7,B01772,stool,infant,30-35,NA,NO,YES,7,7,formula,NA,female,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405733,B01891_Birth,B01891,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,4000,UK
+Shao,ERR3405969,B01891_21,B01891,stool,infant,30-35,NA,NO,NA,21,21,combined,NA,male,vaginal,NA,full-term,4000,UK
+Shao,ERR3405731,B01891_4,B01891,stool,infant,30-35,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,4000,UK
+Shao,ERR3405734,B01947_Birth,B01947,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,2600,UK
+Shao,ERR3405655,B01947_7,B01947,stool,infant,40-45,NA,NO,YES,7,7,breast,NA,male,CS,Elective_CS,full-term,2600,UK
+Shao,ERR3405737,B01948_Birth,B01948,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2100,UK
+Shao,ERR3406008,B01948_264,B01948,stool,infant,25-30,NA,NO,NA,264,264,NA,NA,female,vaginal,NA,full-term,2100,UK
+Shao,ERR3405654,B01948_7,B01948,stool,infant,25-30,NA,NO,NA,7,7,formula,NA,female,vaginal,NA,full-term,2100,UK
+Shao,ERR3405495,B02005_Birth,B02005,stool,mother,25-30,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405492,B02005_21,B02005,stool,infant,25-30,NA,NO,YES,21,21,formula,NA,male,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405493,B02005_4,B02005,stool,infant,25-30,NA,NO,YES,4,4,formula,NA,male,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405494,B02005_7,B02005,stool,infant,25-30,NA,NO,YES,7,7,formula,NA,male,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405739,B02075_Birth,B02075,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,4300,UK
+Shao,ERR3405736,B02075_7,B02075,stool,infant,30-35,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,4300,UK
+Shao,ERR3405499,B02098_Birth,B02098,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,2800,UK
+Shao,ERR3405496,B02098_21,B02098,stool,infant,35-40,NA,NO,YES,21,21,breast,NA,male,CS,Elective_CS,full-term,2800,UK
+Shao,ERR3405497,B02098_4,B02098,stool,infant,35-40,NA,NO,YES,4,4,breast,NA,male,CS,Elective_CS,full-term,2800,UK
+Shao,ERR3405498,B02098_7,B02098,stool,infant,35-40,NA,NO,YES,7,7,breast,NA,male,CS,Elective_CS,full-term,2800,UK
+Shao,ERR3405981,B02159_Birth,B02159,stool,mother,25-30,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,4400,UK
+Shao,ERR3405835,B02159_21,B02159,stool,infant,25-30,NA,NO,YES,21,21,combined,YES,female,CS,Emergency_CS,full-term,4400,UK
+Shao,ERR3406034,B02159_221.00000001,B02159,stool,infant,25-30,NA,NO,YES,221.0000000099997,221.0000000099997,combined,NA,female,CS,Emergency_CS,full-term,4400,UK
+Shao,ERR3405830,B02159_7,B02159,stool,infant,25-30,NA,NO,YES,7,7,combined,YES,female,CS,Emergency_CS,full-term,4400,UK
+Shao,ERR3405743,B02243_Birth,B02243,stool,mother,20-25,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3406201,B02243_216.99999999,B02243,stool,infant,20-25,NA,NO,NA,216.99999998999999,216.99999999,combined,NA,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3405745,B02243_7,B02243,stool,infant,20-25,NA,NO,NA,7,7,combined,NO,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3405744,B02249_Birth,B02249,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405610,B02249_21,B02249,stool,infant,30-35,NA,NO,NA,21,21,breast,NO,male,vaginal,NA,full-term,3800,UK
+Shao,ERR3405590,B02249_4,B02249,stool,infant,30-35,NA,NO,NA,4,4,breast,YES,male,vaginal,NA,full-term,3800,UK
+Shao,ERR3405597,B02249_7,B02249,stool,infant,30-35,NA,NO,NA,7,7,breast,NO,male,vaginal,NA,full-term,3800,UK
+Shao,ERR3405699,B02263_Birth,B02263,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3406040,B02263_218.00000001,B02263,stool,infant,30-35,NA,NO,NA,218.00000001000001,218.00000001,combined,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3405671,B02263_7,B02263,stool,infant,30-35,NA,NO,NA,7,7,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3405634,B02273_Birth,B02273,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3406258,B02273_204,B02273,stool,infant,30-35,NA,NO,NA,204,204,combined,NA,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3405642,B02273_21,B02273,stool,infant,30-35,NA,NO,NA,21,21,breast,YES,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3405633,B02273_4,B02273,stool,infant,30-35,NA,NO,NA,4,4,breast,YES,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3405636,B02273_7,B02273,stool,infant,30-35,NA,NO,NA,7,7,breast,YES,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3405680,B02286_Birth,B02286,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3700,UK
+Shao,ERR3405672,B02286_4,B02286,stool,infant,35-40,NA,NO,NA,4,4,breast,NO,male,vaginal,NA,full-term,3700,UK
+Shao,ERR3405983,B02358_Birth,B02358,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3406003,B02358_195,B02358,stool,infant,30-35,NA,NO,NA,195,195,formula,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405985,B02358_4,B02358,stool,infant,30-35,NA,NO,NA,4,4,formula,NO,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405841,B02358_7,B02358,stool,infant,30-35,NA,NO,NA,7,7,formula,NO,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405987,B02458_Birth,B02458,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3100,UK
+Shao,ERR3405852,B02458_21,B02458,stool,infant,35-40,NA,NO,YES,21,21,breast,NO,female,CS,Elective_CS,full-term,3100,UK
+Shao,ERR3405853,B02458_7,B02458,stool,infant,35-40,NA,NO,YES,7,7,formula,NO,female,CS,Elective_CS,full-term,3100,UK
+Shao,ERR3404733,BBS0006_Birth,BBS0006,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404706,BBS0006_12,BBS0006,stool,infant,NA,NA,NO,NA,12,12,combined,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404736,BBS0014_Birth,BBS0014,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404735,BBS0014_11,BBS0014,stool,infant,NA,NA,NO,NA,11,11,formula,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404738,BBS0024_Birth,BBS0024,stool,mother,NA,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3404737,BBS0024_7,BBS0024,stool,infant,NA,NA,NO,YES,7,7,combined,NA,NA,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3404741,BBS0038_Birth,BBS0038,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404740,BBS0038_7,BBS0038,stool,infant,NA,NA,NO,NA,7,7,formula,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404710,BBS0067_Birth,BBS0067,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404709,BBS0067_7,BBS0067,stool,infant,NA,NA,NO,NA,7,7,combined,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404713,BBS0070_Birth,BBS0070,stool,mother,NA,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3404711,BBS0070_4,BBS0070,stool,infant,NA,NA,NO,YES,4,4,combined,NA,NA,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3404712,BBS0070_7,BBS0070,stool,infant,NA,NA,NO,YES,7,7,combined,NA,NA,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3405012,C01007_Birth,C01007,stool,mother,30-35,NA,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405034,C01007_21,C01007,stool,infant,30-35,NA,NO,NO,21,21,breast,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405001,C01007_7,C01007,stool,infant,30-35,NA,NO,NO,7,7,breast,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405011,C01010_Birth,C01010,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3405019,C01010_7,C01010,stool,infant,30-35,NA,NO,YES,7,7,combined,NA,female,CS,Elective_CS,full-term,4300,UK
+Shao,ERR3405124,C01012_Birth,C01012,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3405037,C01012_21,C01012,stool,infant,30-35,NA,NO,YES,21,21,breast,NO,male,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3405005,C01012_7,C01012,stool,infant,30-35,NA,NO,YES,7,7,breast,NO,male,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3405009,C01052_Birth,C01052,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3405051,C01052_21,C01052,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3405022,C01052_4,C01052,stool,infant,35-40,NA,NO,YES,4,4,combined,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3405033,C01052_7,C01052,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,female,vaginal,NA,full-term,3300,UK
+Shao,ERR3405018,C01075_Birth,C01075,stool,mother,20-25,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405027,C01075_4,C01075,stool,infant,20-25,NA,NO,YES,4,4,combined,NO,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405031,C01075_7,C01075,stool,infant,20-25,NA,NO,YES,7,7,breast,NO,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405030,C01138_Birth,C01138,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3300,UK
+Shao,ERR3405039,C01138_4,C01138,stool,infant,40-45,NA,NO,YES,4,4,combined,NA,male,CS,Emergency_CS,full-term,3300,UK
+Shao,ERR3405041,C01138_7,C01138,stool,infant,40-45,NA,NO,YES,7,7,combined,NA,male,CS,Emergency_CS,full-term,3300,UK
+Shao,ERR3405062,C01201_Birth,C01201,stool,mother,25-30,NA,NO,NO,Birth,0,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405050,C01201_4,C01201,stool,infant,25-30,NA,NO,NO,4,4,combined,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405070,C01201_7,C01201,stool,infant,25-30,NA,NO,NO,7,7,combined,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405063,C01204_Birth,C01204,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405111,C01204_21,C01204,stool,infant,30-35,NA,NO,NA,21,21,breast,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405057,C01204_4,C01204,stool,infant,30-35,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3406081,C01204_425.0000001,C01204,stool,infant,30-35,NA,NO,NA,425.00000009999997,425.0000001,combined,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405058,C01204_7,C01204,stool,infant,30-35,NA,NO,NA,7,7,breast,NA,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405161,C01329_Birth,C01329,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405171,C01329_21,C01329,stool,infant,40-45,NA,NO,YES,21,21,formula,NA,male,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405219,C01329_4,C01329,stool,infant,40-45,NA,NO,YES,4,4,formula,NA,male,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405220,C01329_7,C01329,stool,infant,40-45,NA,NO,YES,7,7,formula,NA,male,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405092,C01381_Birth,C01381,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405184,C01381_21,C01381,stool,infant,25-30,NA,NO,NA,21,21,combined,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405090,C01381_4,C01381,stool,infant,25-30,NA,NO,NA,4,4,combined,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405091,C01381_7,C01381,stool,infant,25-30,NA,NO,NA,7,7,combined,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405225,C01387_Birth,C01387,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,2400,UK
+Shao,ERR3405143,C01387_21,C01387,stool,infant,35-40,NA,NO,YES,21,21,breast,NA,male,vaginal,NA,full-term,2400,UK
+Shao,ERR3406252,C01387_396,C01387,stool,infant,35-40,NA,NO,YES,396,396,combined,NO,male,vaginal,NA,full-term,2400,UK
+Shao,ERR3405224,C01387_4,C01387,stool,infant,35-40,NA,NO,YES,4,4,combined,YES,male,vaginal,NA,full-term,2400,UK
+Shao,ERR3405518,C01387_7,C01387,stool,infant,35-40,NA,NO,YES,7,7,combined,YES,male,vaginal,NA,full-term,2400,UK
+Shao,ERR3405163,C01389_Birth,C01389,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3405189,C01389_21,C01389,stool,infant,35-40,NA,NO,YES,21,21,breast,NA,female,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3405226,C01389_4,C01389,stool,infant,35-40,NA,NO,YES,4,4,breast,NA,female,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3405227,C01389_7,C01389,stool,infant,35-40,NA,NO,YES,7,7,breast,NA,female,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3405162,C01390_Birth,C01390,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3000,UK
+Shao,ERR3405228,C01390_4,C01390,stool,infant,30-35,NA,NO,YES,4,4,breast,NA,male,CS,Elective_CS,full-term,3000,UK
+Shao,ERR3405167,C01390_7,C01390,stool,infant,30-35,NA,NO,YES,7,7,breast,NA,male,CS,Elective_CS,full-term,3000,UK
+Shao,ERR3405519,C01442_Birth,C01442,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405147,C01442_21,C01442,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,male,vaginal,NA,full-term,3500,UK
+Shao,ERR3405179,C01442_4,C01442,stool,infant,30-35,NA,NO,YES,4,4,breast,NA,male,vaginal,NA,full-term,3500,UK
+Shao,ERR3405183,C01442_7,C01442,stool,infant,30-35,NA,NO,YES,7,7,combined,NA,male,vaginal,NA,full-term,3500,UK
+Shao,ERR3405177,C01443_Birth,C01443,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3405918,C01443_330,C01443,stool,infant,35-40,NA,NO,YES,330,330,NA,NA,male,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3405186,C01443_7,C01443,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,male,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3405950,C01485_Birth,C01485,stool,mother,40-45,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405773,C01485_21,C01485,stool,infant,40-45,NA,NO,NA,21,21,combined,NA,male,vaginal,NA,full-term,3200,UK
+Shao,ERR3405765,C01485_7,C01485,stool,infant,40-45,NA,NO,NA,7,7,combined,NA,male,vaginal,NA,full-term,3200,UK
+Shao,ERR3405193,C01488_Birth,C01488,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,2700,UK
+Shao,ERR3405192,C01488_4,C01488,stool,infant,35-40,NA,NO,YES,4,4,combined,NA,female,CS,Elective_CS,full-term,2700,UK
+Shao,ERR3405313,C01560_Birth,C01560,stool,mother,40-45,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3405312,C01560_7,C01560,stool,infant,40-45,NA,NO,NA,7,7,combined,NA,female,vaginal,NA,full-term,2700,UK
+Shao,ERR3405316,C01696_Birth,C01696,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3406220,C01696_297.99999999,C01696,stool,infant,40-45,NA,NO,YES,297.99999998999999,297.99999999,NA,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405314,C01696_4,C01696,stool,infant,40-45,NA,NO,YES,4,4,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405315,C01696_7,C01696,stool,infant,40-45,NA,NO,YES,7,7,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405318,C01752_Birth,C01752,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3700,UK
+Shao,ERR3405317,C01752_4,C01752,stool,infant,35-40,NA,NO,NA,4,4,breast,NA,female,vaginal,NA,full-term,3700,UK
+Shao,ERR3405393,C01752_7,C01752,stool,infant,35-40,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,3700,UK
+Shao,ERR3405618,C01756_Birth,C01756,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3000,UK
+Shao,ERR3405647,C01756_21,C01756,stool,infant,40-45,NA,NO,YES,21,21,breast,NA,female,CS,Emergency_CS,full-term,3000,UK
+Shao,ERR3406223,C01756_288,C01756,stool,infant,40-45,NA,NO,YES,288,288,combined,NO,female,CS,Emergency_CS,full-term,3000,UK
+Shao,ERR3405620,C01756_4,C01756,stool,infant,40-45,NA,NO,YES,4,4,breast,NA,female,CS,Emergency_CS,full-term,3000,UK
+Shao,ERR3405621,C01756_7,C01756,stool,infant,40-45,NA,NO,YES,7,7,breast,NA,female,CS,Emergency_CS,full-term,3000,UK
+Shao,ERR3405322,C01757_Birth,C01757,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3600,UK
+Shao,ERR3405624,C01757_21,C01757,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,male,CS,Emergency_CS,full-term,3600,UK
+Shao,ERR3406027,C01757_288,C01757,stool,infant,35-40,NA,NO,YES,288,288,NA,NA,male,CS,Emergency_CS,full-term,3600,UK
+Shao,ERR3405321,C01757_4,C01757,stool,infant,35-40,NA,NO,YES,4,4,combined,NA,male,CS,Emergency_CS,full-term,3600,UK
+Shao,ERR3405529,C01758_Birth,C01758,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405526,C01758_21,C01758,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3406224,C01758_305.999999999997,C01758,stool,infant,35-40,NA,NO,YES,305.99999999999699,305.999999999997,combined,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405527,C01758_4,C01758,stool,infant,35-40,NA,NO,YES,4,4,combined,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405528,C01758_7,C01758,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405324,C01831_Birth,C01831,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,2400,UK
+Shao,ERR3405623,C01831_21,C01831,stool,infant,35-40,NA,NO,YES,21,21,breast,NA,male,CS,Emergency_CS,full-term,2400,UK
+Shao,ERR3405323,C01831_4,C01831,stool,infant,35-40,NA,NO,YES,4,4,combined,NA,male,CS,Emergency_CS,full-term,2400,UK
+Shao,ERR3406059,C01831_NA,C01831,stool,infant,35-40,NA,NO,YES,NA,NA,combined,NA,male,CS,Emergency_CS,full-term,2400,UK
+Shao,ERR3405403,C01839_Birth,C01839,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405400,C01839_21,C01839,stool,infant,35-40,NA,NO,NA,21,21,breast,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405401,C01839_4,C01839,stool,infant,35-40,NA,NO,NA,4,4,breast,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405402,C01839_7,C01839,stool,infant,35-40,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405407,C01840_Birth,C01840,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405404,C01840_21,C01840,stool,infant,30-35,NA,NO,NA,21,21,combined,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3406226,C01840_284.00000001,C01840,stool,infant,30-35,NA,NO,NA,284.00000001000001,284.00000001,combined,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405405,C01840_4,C01840,stool,infant,30-35,NA,NO,NA,4,4,combined,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405406,C01840_7,C01840,stool,infant,30-35,NA,NO,NA,7,7,combined,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405411,C01841_Birth,C01841,stool,mother,40-45,NA,YES,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,2000,UK
+Shao,ERR3405408,C01841_21,C01841,stool,infant,40-45,NA,YES,YES,21,21,combined,NA,female,vaginal,NA,full-term,2000,UK
+Shao,ERR3406227,C01841_297,C01841,stool,infant,40-45,NA,NO,YES,297,297,combined,NA,female,vaginal,NA,full-term,2000,UK
+Shao,ERR3405409,C01841_4,C01841,stool,infant,40-45,NA,YES,YES,4,4,combined,NA,female,vaginal,NA,full-term,2000,UK
+Shao,ERR3405410,C01841_7,C01841,stool,infant,40-45,NA,YES,YES,7,7,combined,NA,female,vaginal,NA,full-term,2000,UK
+Shao,ERR3405415,C01844_Birth,C01844,stool,mother,40-45,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405412,C01844_21,C01844,stool,infant,40-45,NA,NO,NA,21,21,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3406036,C01844_282.99999999,C01844,stool,infant,40-45,NA,NO,NA,282.99999998999999,282.99999999,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405413,C01844_4,C01844,stool,infant,40-45,NA,NO,NA,4,4,breast,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405414,C01844_7,C01844,stool,infant,40-45,NA,NO,NA,7,7,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405533,C01871_Birth,C01871,stool,mother,25-30,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3405530,C01871_21,C01871,stool,infant,25-30,NA,NO,YES,21,21,breast,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3405531,C01871_4,C01871,stool,infant,25-30,NA,NO,YES,4,4,breast,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3405532,C01871_7,C01871,stool,infant,25-30,NA,NO,YES,7,7,breast,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3405964,C01873_Birth,C01873,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405817,C01873_21,C01873,stool,infant,40-45,NA,NO,YES,21,21,combined,NA,male,vaginal,NA,full-term,2900,UK
+Shao,ERR3406228,C01873_278.00000001,C01873,stool,infant,40-45,NA,NO,YES,278.00000001000001,278.00000001,combined,NO,male,vaginal,NA,full-term,2900,UK
+Shao,ERR3405804,C01873_7,C01873,stool,infant,40-45,NA,NO,YES,7,7,combined,NA,male,vaginal,NA,full-term,2900,UK
+Shao,ERR3405730,C01914_Birth,C01914,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3900,UK
+Shao,ERR3405966,C01914_4,C01914,stool,infant,30-35,NA,NO,YES,4,4,breast,NA,male,CS,Emergency_CS,full-term,3900,UK
+Shao,ERR3405732,C01914_7,C01914,stool,infant,30-35,NA,NO,YES,7,7,breast,NA,male,CS,Emergency_CS,full-term,3900,UK
+Shao,ERR3405729,C01916_Birth,C01916,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,4300,UK
+Shao,ERR3405968,C01916_21,C01916,stool,infant,40-45,NA,NO,YES,21,21,NA,NA,male,vaginal,NA,full-term,4300,UK
+Shao,ERR3405656,C01916_7,C01916,stool,infant,40-45,NA,NO,YES,7,7,NA,NA,male,vaginal,NA,full-term,4300,UK
+Shao,ERR3405428,C01917_Birth,C01917,stool,mother,40-45,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405425,C01917_21,C01917,stool,infant,40-45,NA,NO,NA,21,21,breast,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3406249,C01917_305.999999999997,C01917,stool,infant,40-45,NA,NO,NA,305.99999999999699,305.999999999997,combined,NO,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405426,C01917_4,C01917,stool,infant,40-45,NA,NO,NA,4,4,breast,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405427,C01917_7,C01917,stool,infant,40-45,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405432,C01919_Birth,C01919,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405429,C01919_21,C01919,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3406230,C01919_273.99999999,C01919,stool,infant,35-40,NA,NO,YES,273.99999998999971,273.9999999899997,combined,NO,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405430,C01919_4,C01919,stool,infant,35-40,NA,NO,YES,4,4,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405431,C01919_7,C01919,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405436,C01929_Birth,C01929,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3405433,C01929_21,C01929,stool,infant,30-35,NA,NO,NA,21,21,combined,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3405434,C01929_4,C01929,stool,infant,30-35,NA,NO,NA,4,4,combined,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3405435,C01929_7,C01929,stool,infant,30-35,NA,NO,NA,7,7,combined,NA,female,vaginal,NA,full-term,3900,UK
+Shao,ERR3405440,C01930_Birth,C01930,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405437,C01930_21,C01930,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,male,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405927,C01930_267,C01930,stool,infant,30-35,NA,NO,YES,267,267,combined,NA,male,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405438,C01930_4,C01930,stool,infant,30-35,NA,NO,YES,4,4,combined,NA,male,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405439,C01930_7,C01930,stool,infant,30-35,NA,NO,YES,7,7,combined,NA,male,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405972,C01959_Birth,C01959,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3405813,C01959_21,C01959,stool,infant,30-35,NA,NO,YES,21,21,breast,NA,male,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3406019,C01959_261.99999999,C01959,stool,infant,30-35,NA,NO,YES,261.99999998999971,261.9999999899997,combined,NA,male,CS,Elective_CS,full-term,3700,UK
+Shao,ERR3405974,C01960_Birth,C01960,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3400,UK
+Shao,ERR3405945,C01960_261.99999999,C01960,stool,infant,35-40,NA,NO,YES,261.99999998999971,261.9999999899997,combined,NA,male,CS,Emergency_CS,full-term,3400,UK
+Shao,ERR3405819,C01960_7,C01960,stool,infant,35-40,NA,NO,YES,7,7,NA,NA,male,CS,Emergency_CS,full-term,3400,UK
+Shao,ERR3405537,C01962_Birth,C01962,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,4100,UK
+Shao,ERR3405534,C01962_21,C01962,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,male,vaginal,NA,full-term,4100,UK
+Shao,ERR3405919,C01962_261.99999999,C01962,stool,infant,30-35,NA,NO,YES,261.99999998999971,261.9999999899997,NA,NA,male,vaginal,NA,full-term,4100,UK
+Shao,ERR3405535,C01962_4,C01962,stool,infant,30-35,NA,NO,YES,4,4,combined,NA,male,vaginal,NA,full-term,4100,UK
+Shao,ERR3405536,C01962_7,C01962,stool,infant,30-35,NA,NO,YES,7,7,combined,NA,male,vaginal,NA,full-term,4100,UK
+Shao,ERR3405444,C01990_Birth,C01990,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405441,C01990_21,C01990,stool,infant,35-40,NA,NO,YES,21,21,breast,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405442,C01990_4,C01990,stool,infant,35-40,NA,NO,YES,4,4,breast,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405443,C01990_7,C01990,stool,infant,35-40,NA,NO,YES,7,7,breast,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405541,C01991_Birth,C01991,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405538,C01991_21,C01991,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405539,C01991_4,C01991,stool,infant,35-40,NA,NO,YES,4,4,formula,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405540,C01991_7,C01991,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405545,C01994_Birth,C01994,stool,mother,40-45,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405542,C01994_21,C01994,stool,infant,40-45,NA,NO,NA,21,21,combined,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3406232,C01994_279.99999999,C01994,stool,infant,40-45,NA,NO,NA,279.99999998999999,279.99999999,combined,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405543,C01994_4,C01994,stool,infant,40-45,NA,NO,NA,4,4,combined,NO,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405544,C01994_7,C01994,stool,infant,40-45,NA,NO,NA,7,7,combined,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405552,C02044_Birth,C02044,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405549,C02044_21,C02044,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405550,C02044_4,C02044,stool,infant,35-40,NA,NO,YES,4,4,combined,NO,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405551,C02044_7,C02044,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,male,CS,Elective_CS,full-term,3600,UK
+Shao,ERR3405556,C02047_Birth,C02047,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3700,UK
+Shao,ERR3405553,C02047_21,C02047,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,male,CS,Emergency_CS,full-term,3700,UK
+Shao,ERR3405554,C02047_4,C02047,stool,infant,35-40,NA,NO,YES,4,4,combined,NA,male,CS,Emergency_CS,full-term,3700,UK
+Shao,ERR3405555,C02047_7,C02047,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,male,CS,Emergency_CS,full-term,3700,UK
+Shao,ERR3405978,C02056_Birth,C02056,stool,mother,25-30,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405820,C02056_21,C02056,stool,infant,25-30,NA,NO,YES,21,21,breast,NA,NA,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3406233,C02056_257.00000001,C02056,stool,infant,25-30,NA,NO,YES,257.00000000999967,257.00000000999967,combined,NA,NA,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405971,C02056_7,C02056,stool,infant,25-30,NA,NO,YES,7,7,breast,NA,NA,CS,Elective_CS,full-term,3200,UK
+Shao,ERR3405979,C02057_Birth,C02057,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,NA,UK
+Shao,ERR3405821,C02057_21,C02057,stool,infant,30-35,NA,NO,YES,21,21,combined,NA,NA,CS,Emergency_CS,full-term,NA,UK
+Shao,ERR3405855,C02057_4,C02057,stool,infant,30-35,NA,NO,YES,4,4,combined,NA,NA,CS,Emergency_CS,full-term,NA,UK
+Shao,ERR3405812,C02057_7,C02057,stool,infant,30-35,NA,NO,YES,7,7,combined,NA,NA,CS,Emergency_CS,full-term,NA,UK
+Shao,ERR3405976,C02058_Birth,C02058,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3406045,C02058_21,C02058,stool,infant,35-40,NA,NO,YES,21,21,combined,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3406043,C02058_7,C02058,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405560,C02059_Birth,C02059,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405557,C02059_21,C02059,stool,infant,35-40,NA,NO,YES,21,21,combined,YES,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405558,C02059_4,C02059,stool,infant,35-40,NA,NO,YES,4,4,combined,NO,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405559,C02059_7,C02059,stool,infant,35-40,NA,NO,YES,7,7,combined,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405975,C02061_Birth,C02061,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405823,C02061_21,C02061,stool,infant,35-40,NA,NO,NA,21,21,breast,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3406038,C02061_255,C02061,stool,infant,35-40,NA,NO,NA,255,255,combined,NO,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3406042,C02061_4,C02061,stool,infant,35-40,NA,NO,NA,4,4,combined,NA,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405625,C02097_Birth,C02097,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,2300,UK
+Shao,ERR3405626,C02097_21,C02097,stool,infant,40-45,NA,NO,YES,21,21,breast,NA,female,vaginal,NA,full-term,2300,UK
+Shao,ERR3405658,C02097_7,C02097,stool,infant,40-45,NA,NO,YES,7,7,breast,NA,female,vaginal,NA,full-term,2300,UK
+Shao,ERR3405740,C02131_Birth,C02131,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3406243,C02131_257.00000001,C02131,stool,infant,30-35,NA,NO,NA,257.00000000999967,257.00000000999967,combined,NO,male,vaginal,NA,full-term,3500,UK
+Shao,ERR3405659,C02131_7,C02131,stool,infant,30-35,NA,NO,NA,7,7,combined,NA,male,vaginal,NA,full-term,3500,UK
+Shao,ERR3405677,C02142_Birth,C02142,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405660,C02142_7,C02142,stool,infant,30-35,NA,NO,YES,7,7,breast,NA,female,CS,Elective_CS,full-term,3300,UK
+Shao,ERR3405741,C02143_Birth,C02143,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3406235,C02143_233.00000001,C02143,stool,infant,25-30,NA,NO,NA,233.00000001000001,233.00000001,combined,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405661,C02143_7,C02143,stool,infant,25-30,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405742,C02180_Birth,C02180,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,2500,UK
+Shao,ERR3405663,C02180_7,C02180,stool,infant,40-45,NA,NO,YES,7,7,combined,NA,male,vaginal,NA,full-term,2500,UK
+Shao,ERR3405674,C02186_Birth,C02186,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3200,UK
+Shao,ERR3405662,C02186_7,C02186,stool,infant,30-35,NA,NO,YES,7,7,NA,NA,male,vaginal,NA,full-term,3200,UK
+Shao,ERR3405676,C02223_Birth,C02223,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3406061,C02223_222,C02223,stool,infant,30-35,NA,NO,YES,222,222,breast,NO,male,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3405664,C02223_7,C02223,stool,infant,30-35,NA,NO,YES,7,7,combined,NO,male,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3405676T1,C02223T_Birth,C02223T,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,NA,full-term,NA,UK
+Shao,ERR3406062,C02223T_222,C02223T,stool,infant,30-35,NA,NO,YES,222,222,combined,NO,male,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3405665,C02223T_7,C02223T,stool,infant,30-35,NA,NO,YES,7,7,combined,NO,male,CS,Elective_CS,full-term,2300,UK
+Shao,ERR3405678,C02236_Birth,C02236,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3800,UK
+Shao,ERR3406236,C02236_230.00000001,C02236,stool,infant,30-35,NA,NO,YES,230.00000001000001,230.00000001,combined,NA,male,CS,Emergency_CS,full-term,3800,UK
+Shao,ERR3405670,C02236_7,C02236,stool,infant,30-35,NA,NO,YES,7,7,breast,NO,male,CS,Emergency_CS,full-term,3800,UK
+Shao,ERR3405675,C02294_Birth,C02294,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2400,UK
+Shao,ERR3405667,C02294_7,C02294,stool,infant,30-35,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,2400,UK
+Shao,ERR3405675T1,C02294T_Birth,C02294T,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2400,UK
+Shao,ERR3405668,C02294T_7,C02294T,stool,infant,30-35,NA,NO,NA,7,7,breast,NA,female,vaginal,NA,full-term,2400,UK
+Shao,ERR3405679,C02295_Birth,C02295,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,2700,UK
+Shao,ERR3406075,C02295_266.00000001,C02295,stool,infant,40-45,NA,NO,YES,266.00000001000001,266.00000001,combined,NA,female,CS,Elective_CS,full-term,2700,UK
+Shao,ERR3405669,C02295_7,C02295,stool,infant,40-45,NA,NO,YES,7,7,breast,NA,female,CS,Elective_CS,full-term,2700,UK
+Shao,ERR3405702,C02331_Birth,C02331,stool,mother,25-30,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2500,UK
+Shao,ERR3405673,C02331_7,C02331,stool,infant,25-30,NA,NO,NA,7,7,combined,NO,female,vaginal,NA,full-term,2500,UK
+Shao,ERR3405681,C02353_Birth,C02353,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405700,C02353_7,C02353,stool,infant,35-40,NA,NO,NA,7,7,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405682,C02391_Birth,C02391,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3406239,C02391_213.99999999,C02391,stool,infant,30-35,NA,NO,NA,213.99999999000002,213.99999999,combined,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405701,C02391_7,C02391,stool,infant,30-35,NA,NO,NA,7,7,breast,NO,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405683,C02514_Birth,C02514,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3400,UK
+Shao,ERR3406063,C02514_174,C02514,stool,infant,30-35,NA,NO,NA,174,174,combined,NO,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3405703,C02514_7,C02514,stool,infant,30-35,NA,NO,NA,7,7,breast,YES,male,vaginal,NA,full-term,3400,UK
+Shao,ERR3405684,C02516_Birth,C02516,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2800,UK
+Shao,ERR3406064,C02516_189.99999999,C02516,stool,infant,35-40,NA,NO,NA,189.99999998999971,189.9999999899997,combined,NA,female,vaginal,NA,full-term,2800,UK
+Shao,ERR3405704,C02516_7,C02516,stool,infant,35-40,NA,NO,NA,7,7,combined,NO,female,vaginal,NA,full-term,2800,UK
+Shao,ERR3405686,C02548_Birth,C02548,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3800,UK
+Shao,ERR3405709,C02548_7,C02548,stool,infant,35-40,NA,NO,NA,7,7,breast,NO,male,vaginal,NA,full-term,3800,UK
+Shao,ERR3405685,C02565_Birth,C02565,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405708,C02565_7,C02565,stool,infant,35-40,NA,NO,YES,7,7,combined,NO,male,CS,Elective_CS,full-term,3400,UK
+Shao,ERR3405689,C02566_Birth,C02566,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3000,UK
+Shao,ERR3405706,C02566_7,C02566,stool,infant,35-40,NA,NO,YES,7,7,combined,NO,male,CS,Emergency_CS,full-term,3000,UK
+Shao,ERR3405688,C02571_Birth,C02571,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3500,UK
+Shao,ERR3405707,C02571_7,C02571,stool,infant,30-35,NA,NO,NA,7,7,breast,YES,male,vaginal,NA,full-term,3500,UK
+Shao,ERR3405687,C02634_Birth,C02634,stool,mother,30-35,NA,NO,YES,Birth,0,NA,NA,female,vaginal,NA,full-term,3000,UK
+Shao,ERR3405710,C02634_7,C02634,stool,infant,30-35,NA,NO,YES,7,7,breast,NO,male,vaginal,NA,full-term,3000,UK
+Shao,ERR3405720,C02649_Birth,C02649,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3600,UK
+Shao,ERR3405711,C02649_7,C02649,stool,infant,30-35,NA,NO,NA,7,7,combined,NO,male,vaginal,NA,full-term,3600,UK
+Shao,ERR3405721,C02670_Birth,C02670,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3405712,C02670_7,C02670,stool,infant,35-40,NA,NO,YES,7,7,breast,NO,female,CS,Emergency_CS,full-term,3500,UK
+Shao,ERR3405690,C02695_Birth,C02695,stool,mother,30-35,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405715,C02695_7,C02695,stool,infant,30-35,NA,NO,NA,7,7,combined,NA,female,vaginal,NA,full-term,2900,UK
+Shao,ERR3405695,C02755_Birth,C02755,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3100,UK
+Shao,ERR3405718,C02755_7,C02755,stool,infant,35-40,NA,NO,NA,7,7,combined,YES,male,vaginal,NA,full-term,3100,UK
+Shao,ERR3405693,C02756_Birth,C02756,stool,mother,40-45,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,2900,UK
+Shao,ERR3405716,C02756_7,C02756,stool,infant,40-45,NA,NO,YES,7,7,combined,NO,female,CS,Elective_CS,full-term,2900,UK
+Shao,ERR3405691,C02868_Birth,C02868,stool,mother,35-40,NA,NO,YES,Birth,0,NA,NA,female,CS,Emergency_CS,full-term,3700,UK
+Shao,ERR3405725,C02868_7,C02868,stool,infant,35-40,NA,NO,YES,7,7,combined,NO,male,CS,Emergency_CS,full-term,3700,UK
+Shao,ERR3405697,C02892_Birth,C02892,stool,mother,35-40,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,4200,UK
+Shao,ERR3405696,C02892_7,C02892,stool,infant,35-40,NA,NO,NA,7,7,combined,YES,male,vaginal,NA,full-term,4200,UK
+Shao,ERR3404718,S1_Birth,S1,stool,mother,NA,NA,YES,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404686,S1_4,S1,stool,infant,NA,NA,YES,NA,4,4,breast,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404719,S10_Birth,S10,stool,mother,NA,NA,NO,YES,Birth,0,NA,NA,female,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3404694,S10_7,S10,stool,infant,NA,NA,NO,YES,7,7,combined,NA,NA,CS,Elective_CS,full-term,NA,UK
+Shao,ERR3404720,S13_Birth,S13,stool,mother,NA,NA,YES,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404697,S13_7,S13,stool,infant,NA,NA,YES,NA,7,7,breast,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404721,S3_Birth,S3,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404688,S3_7,S3,stool,infant,NA,NA,NO,NA,7,7,formula,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404723,S33_Birth,S33,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404722,S33_7,S33,stool,infant,NA,NA,NO,NA,7,7,breast,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404725,S34_Birth,S34,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404724,S34_7,S34,stool,infant,NA,NA,NO,NA,7,7,combined,NA,NA,vaginal,NA,full-term,NA,UK
+Shao,ERR3404732,S7_Birth,S7,stool,mother,NA,NA,NO,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,UK
+Shao,ERR3404691,S7_7,S7,stool,infant,NA,NA,NO,NA,7,7,combined,NA,NA,vaginal,NA,full-term,NA,UK
+Wampach,SRR5575606,M_C100,100,stool,mother,40-45,25.259515570934255,NA,YES,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR5575361,V2_C100,100,stool,infant,40-45,25.259515570934255,NA,YES,around 3 days,3,breast,NA,female,vaginal,NA,full-term,3730,LUX
+Wampach,SRR5575421,V3_C100,100,stool,infant,40-45,25.259515570934255,NA,YES,around 5 days,5,breast,NA,female,vaginal,NA,full-term,3730,LUX
+Wampach,SRR5575408,M_C101,101,stool,mother,30-35,NA,NA,YES,Birth,0,NA,NA,female,CS,Emergency_CS,NA,NA,LUX
+Wampach,SRR5575359,V1_C101,101,stool,infant,30-35,NA,NA,YES,around 1 day,1,formula,NA,male,CS,Emergency_CS,preterm,1970,LUX
+Wampach,SRR5575418,V2_C101,101,stool,infant,30-35,NA,NA,YES,around 3 days,3,combined,NA,male,CS,Emergency_CS,preterm,1970,LUX
+Wampach,SRR5575354,V3_C101,101,stool,infant,30-35,NA,NA,YES,around 5 days,5,combined,NA,male,CS,Emergency_CS,preterm,1970,LUX
+Wampach,SRR7716244,M_C105,105,stool,mother,30-35,19.605191995673337,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR7716236,V2_C105,105,stool,infant,30-35,19.605191995673337,NA,NO,around 3 dayS,3,breast,NA,male,vaginal,NA,full-term,3000,LUX
+Wampach,SRR7716241,V3_C105,105,stool,infant,30-35,19.605191995673337,NA,NO,around 5 days,5,breast,NA,male,vaginal,NA,full-term,3000,LUX
+Wampach,SRR5575605,M_C106,106,stool,mother,30-35,26.171875,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR5575414,V1_C106,106,stool,infant,30-35,26.171875,NA,NO,around 1 day,1,breast,NA,male,vaginal,NA,full-term,2700,LUX
+Wampach,SRR5575360,V2_C106,106,stool,infant,30-35,26.171875,NA,NO,around 3 days,3,breast,NA,male,vaginal,NA,full-term,2700,LUX
+Wampach,SRR5575565,V3_C106,106,stool,infant,30-35,26.171875,NA,NO,around 5 days,5,breast,NA,male,vaginal,NA,full-term,2700,LUX
+Wampach,SRR7716245,M_C109,109,stool,mother,30-35,21.829952199932251,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR7716238,V1_C109,109,stool,infant,30-35,21.829952199932251,NA,NO,around 1 day,1,breast,NA,male,vaginal,NA,full-term,3550,LUX
+Wampach,SRR7716239,V2_C109,109,stool,infant,30-35,21.829952199932251,NA,NO,around 3 days,3,breast,NA,male,vaginal,NA,full-term,3550,LUX
+Wampach,SRR7716246,M_C110,110,stool,mother,30-35,20.3125,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR7716237,V1_C110,110,stool,infant,30-35,20.3125,NA,NO,around 1 day,1,breast,NA,male,vaginal,NA,full-term,3430,LUX
+Wampach,SRR7716249,V2_C110,110,stool,infant,30-35,20.3125,NA,NO,around 3 days,3,breast,NA,male,vaginal,NA,full-term,3430,LUX
+Wampach,SRR7716242,V3_C110,110,stool,infant,30-35,20.3125,NA,NO,around 5 days,5,breast,NA,male,vaginal,NA,full-term,3430,LUX
+Wampach,SRR5575599,M_C111,111,stool,mother,30-35,26.026174895895302,NA,YES,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR5575411,V1_C111,111,stool,infant,30-35,26.026174895895302,NA,YES,around 1 day,1,breast,NA,female,vaginal,NA,full-term,3850,LUX
+Wampach,SRR5575363,V2_C111,111,stool,infant,30-35,26.026174895895302,NA,YES,around 3 days,3,breast,NA,female,vaginal,NA,full-term,3850,LUX
+Wampach,SRR5575423,V3_C111,111,stool,infant,30-35,26.026174895895302,NA,YES,around 5 days,5,breast,NA,female,vaginal,NA,full-term,3850,LUX
+Wampach,SRR5575413,M_C114,114,stool,mother,20-25,24.835763499439192,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
+Wampach,SRR5575420,V2_C114,114,stool,infant,20-25,24.835763499439192,NA,YES,around 3 days,3,combined,NA,female,CS,Elective_CS,full-term,2560,LUX
+Wampach,SRR5575656,V3_C114,114,stool,infant,20-25,24.835763499439192,NA,YES,around 5 days,5,combined,NA,female,CS,Elective_CS,full-term,2560,LUX
+Wampach,SRR5575407,M_C115,115,stool,mother,35-40,28.125,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
+Wampach,SRR5575419,V1_C115,115,stool,infant,35-40,28.125,NA,YES,around 1 day,1,formula,NA,male,CS,Elective_CS,preterm,2395,LUX
+Wampach,SRR5575366,V2_C115,115,stool,infant,35-40,28.125,NA,YES,around 3 days,3,formula,NA,male,CS,Elective_CS,preterm,2395,LUX
+Wampach,SRR5575357,V3_C115,115,stool,infant,35-40,28.125,NA,YES,around 5 days,5,formula,NA,male,CS,Elective_CS,preterm,2395,LUX
+Wampach,SRR5575407T1,M_C116,116,stool,mother,35-40,28.125,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
+Wampach,SRR5575417,V2_C116,116,stool,infant,35-40,28.125,NA,YES,around 3 days,3,formula,NA,male,CS,Elective_CS,preterm,1850,LUX
+Wampach,SRR5575355,V3_C116,116,stool,infant,35-40,28.125,NA,YES,around 5 days,5,formula,NA,male,CS,Elective_CS,preterm,1850,LUX
+Wampach,SRR5575598,M_C117,117,stool,mother,40-45,22.308149910767401,NA,NO,Birth,0,NA,NA,female,vaginal,NA,NA,NA,LUX
+Wampach,SRR5575362,V2_C117,117,stool,infant,40-45,22.308149910767401,NA,NO,around 3 days,3,combined,NA,male,vaginal,NA,full-term,3670,LUX
+Wampach,SRR5575424,V3_C117,117,stool,infant,40-45,22.308149910767401,NA,NO,around 5 days,5,combined,NA,male,vaginal,NA,full-term,3670,LUX
+Wampach,SRR5575409,M_C118,118,stool,mother,25-30,21.007667798746546,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
+Wampach,SRR5575412,V1_C118,118,stool,infant,25-30,21.007667798746546,NA,YES,around 1 day,1,breast,NA,male,CS,Elective_CS,full-term,3330,LUX
+Wampach,SRR5575365,V2_C118,118,stool,infant,25-30,21.007667798746546,NA,YES,around 3 days,3,breast,NA,male,CS,Elective_CS,full-term,3330,LUX
+Wampach,SRR5575425,V3_C118,118,stool,infant,25-30,21.007667798746546,NA,YES,around 5 days,5,combined,NA,male,CS,Elective_CS,full-term,3330,LUX
+Wampach,SRR7716247,M_C119,119,stool,mother,35-40,47.058823529411761,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
+Wampach,SRR7716240,V2_C119,119,stool,infant,35-40,47.058823529411761,NA,YES,around 3 days,3,combined,NA,female,CS,Elective_CS,full-term,1900,LUX
+Wampach,SRR7716243,V3_C119,119,stool,infant,35-40,47.058823529411761,NA,YES,around 5 days,5,formula,NA,female,CS,Elective_CS,full-term,1900,LUX
+Wampach,SRR5575410,M_C120,120,stool,mother,35-40,19.519631171921475,NA,YES,Birth,0,NA,NA,female,CS,Elective_CS,NA,NA,LUX
+Wampach,SRR5575415,V1_C120,120,stool,infant,35-40,19.519631171921475,NA,YES,around 1 day,1,combined,NA,male,CS,Elective_CS,full-term,3050,LUX
+Wampach,SRR5575364,V2_C120,120,stool,infant,35-40,19.519631171921475,NA,YES,around 3 days,3,breast,NA,male,CS,Elective_CS,full-term,3050,LUX
+Wampach,SRR5575429,V3_C120,120,stool,infant,35-40,19.519631171921475,NA,YES,around 5 days,5,breast,NA,male,CS,Elective_CS,full-term,3050,LUX
+Yassour,SRR7281057,M0018C0,18,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3640,FIN_2
+Yassour,SRR7280884,M0018M0,18,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281059,M0018C14,18,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3640,FIN_2
+Yassour,SRR7281058,M0018C30,18,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3640,FIN_2
+Yassour,SRR7281046,M0018C60,18,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3640,FIN_2
+Yassour,SRR7280802,M0018C90,18,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3640,FIN_2
+Yassour,SRR7280885,M0018M90,18,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280831,M0024C0,24,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3145,FIN_2
+Yassour,SRR7281047,M0024M0,24,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281043,M0038C0,38,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3620,FIN_2
+Yassour,SRR7281041,M0038M0,38,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281044,M0038C14,38,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,male,vaginal,NA,full-term,3620,FIN_2
+Yassour,SRR7281045,M0038C30,38,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,3620,FIN_2
+Yassour,SRR7281038,M0038C60,38,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,male,vaginal,NA,full-term,3620,FIN_2
+Yassour,SRR7281039,M0038C90,38,stool,infant,NA,NA,NA,NA,3 months,90,combined,NA,male,vaginal,NA,full-term,3620,FIN_2
+Yassour,SRR7281035,M0038M90,38,stool,mother,NA,NA,NA,NA,3 months,90,combined,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281036,M0053C0,53,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3120,FIN_2
+Yassour,SRR7280794,M0053M0,53,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280792,M0059M0,59,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280795,M0059C14,59,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,female,vaginal,NA,full-term,2970,FIN_2
+Yassour,SRR7280798,M0059C30,59,stool,infant,NA,NA,NA,NA,1 month,30,combined,NA,female,vaginal,NA,full-term,2970,FIN_2
+Yassour,SRR7280797,M0059C60,59,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,female,vaginal,NA,full-term,2970,FIN_2
+Yassour,SRR7280800,M0059C90,59,stool,infant,NA,NA,NA,NA,3 months,90,combined,NA,female,vaginal,NA,full-term,2970,FIN_2
+Yassour,SRR7280791,M0059M90,59,stool,mother,NA,NA,NA,NA,3 months,90,combined,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280844,M0072C0,72,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,CS,NA,full-term,3670,FIN_2
+Yassour,SRR7280846,M0072M0,72,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7280845,M0072C14,72,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,male,CS,NA,full-term,3670,FIN_2
+Yassour,SRR7280842,M0072C30,72,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,CS,NA,full-term,3670,FIN_2
+Yassour,SRR7280843,M0072C60,72,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,CS,NA,full-term,3670,FIN_2
+Yassour,SRR7280848,M0072C90,72,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,CS,NA,full-term,3670,FIN_2
+Yassour,SRR7280847,M0072M90,72,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7280840,M0073C0,73,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280808,M0073M0,73,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280812,M0073C14,73,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280811,M0073C30,73,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280841,M0073C60,73,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280810,M0073C90,73,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280807,M0073M90,73,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280806,M0074C0,74,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3490,FIN_2
+Yassour,SRR7280854,M0074M0,74,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280805,M0074C14,74,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,male,vaginal,NA,full-term,3490,FIN_2
+Yassour,SRR7280804,M0074C60,74,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,male,vaginal,NA,full-term,3490,FIN_2
+Yassour,SRR7280803,M0074C90,74,stool,infant,NA,NA,NA,NA,3 months,90,combined,NA,male,vaginal,NA,full-term,3490,FIN_2
+Yassour,SRR7280853,M0074M90,74,stool,mother,NA,NA,NA,NA,3 months,90,combined,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280855,M0084C0,84,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,4310,FIN_2
+Yassour,SRR7280851,M0084M0,84,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280856,M0084C14,84,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,4310,FIN_2
+Yassour,SRR7280857,M0084C30,84,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,4310,FIN_2
+Yassour,SRR7280801,M0084C60,84,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,female,vaginal,NA,full-term,4310,FIN_2
+Yassour,SRR7280859,M0084C90,84,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,4310,FIN_2
+Yassour,SRR7280891,M0084M90,84,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280887,M0143C0,143,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,preterm,2850,FIN_2
+Yassour,SRR7280886,M0143M0,143,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,preterm,NA,FIN_2
+Yassour,SRR7280888,M0151C0,151,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3850,FIN_2
+Yassour,SRR7280895,M0151M0,151,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280923,M0162C0,162,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,CS,NA,full-term,4330,FIN_2
+Yassour,SRR7280920,M0162M0,162,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7280918,M0177C0,177,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3900,FIN_2
+Yassour,SRR7280919,M0177M0,177,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280927,M0201C0,201,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7281000,M0201M0,201,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280997,M0201C14,201,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,male,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280996,M0201C30,201,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280995,M0201C60,201,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280994,M0201C90,201,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,vaginal,NA,full-term,3090,FIN_2
+Yassour,SRR7280879,M0201M90,201,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280951,M0226M0,226,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280950,M0226C14,226,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,male,vaginal,NA,full-term,3175,FIN_2
+Yassour,SRR7280970,M0226C30,226,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,3175,FIN_2
+Yassour,SRR7280973,M0226C60,226,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,vaginal,NA,full-term,3175,FIN_2
+Yassour,SRR7280948,M0226C90,226,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,vaginal,NA,full-term,3175,FIN_2
+Yassour,SRR7280928,M0226M90,226,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280836,M0259M0,259,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280833,M0259C14,259,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,male,vaginal,NA,full-term,3270,FIN_2
+Yassour,SRR7280832,M0259C30,259,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,3270,FIN_2
+Yassour,SRR7280839,M0259C60,259,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,vaginal,NA,full-term,3270,FIN_2
+Yassour,SRR7280838,M0259C90,259,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,vaginal,NA,full-term,3270,FIN_2
+Yassour,SRR7280830,M0259M90,259,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281070,M0261M0,261,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281073,M0261C14,261,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3505,FIN_2
+Yassour,SRR7281074,M0261C30,261,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3505,FIN_2
+Yassour,SRR7281075,M0261C60,261,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3505,FIN_2
+Yassour,SRR7281076,M0261C90,261,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3505,FIN_2
+Yassour,SRR7281071,M0261M90,261,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281067,M0297C0,297,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,4005,FIN_2
+Yassour,SRR7280899,M0297M0,297,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280904,M0297C14,297,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,male,vaginal,NA,full-term,4005,FIN_2
+Yassour,SRR7280903,M0297C30,297,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,4005,FIN_2
+Yassour,SRR7280906,M0297C60,297,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,vaginal,NA,full-term,4005,FIN_2
+Yassour,SRR7280905,M0297C90,297,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,vaginal,NA,full-term,4005,FIN_2
+Yassour,SRR7280902,M0297M90,297,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280875,M0305M0,305,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280912,M0305C14,305,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3550,FIN_2
+Yassour,SRR7280911,M0305C30,305,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3550,FIN_2
+Yassour,SRR7280877,M0305C60,305,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3550,FIN_2
+Yassour,SRR7280876,M0305M90,305,stool,mother,NA,NA,NA,NA,3 months,90,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280873,M0327C0,327,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3580,FIN_2
+Yassour,SRR7280961,M0327M0,327,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280874,M0327C14,327,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3580,FIN_2
+Yassour,SRR7280871,M0327C30,327,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3580,FIN_2
+Yassour,SRR7280872,M0327C60,327,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3580,FIN_2
+Yassour,SRR7280881,M0327C90,327,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3580,FIN_2
+Yassour,SRR7280960,M0327M90,327,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280959,M0333C0,333,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3570,FIN_2
+Yassour,SRR7280953,M0333M0,333,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280958,M0333C14,333,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,female,vaginal,NA,full-term,3570,FIN_2
+Yassour,SRR7280957,M0333C30,333,stool,infant,NA,NA,NA,NA,1 month,30,combined,NA,female,vaginal,NA,full-term,3570,FIN_2
+Yassour,SRR7280956,M0333C60,333,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,female,vaginal,NA,full-term,3570,FIN_2
+Yassour,SRR7280955,M0333C90,333,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3570,FIN_2
+Yassour,SRR7280952,M0333M90,333,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280930,M0346C0,346,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3210,FIN_2
+Yassour,SRR7280936,M0346M0,346,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280931,M0346C14,346,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3210,FIN_2
+Yassour,SRR7280932,M0346C30,346,stool,infant,NA,NA,NA,NA,1 month,30,combined,NA,female,vaginal,NA,full-term,3210,FIN_2
+Yassour,SRR7280933,M0346C60,346,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,female,vaginal,NA,full-term,3210,FIN_2
+Yassour,SRR7280934,M0346C90,346,stool,infant,NA,NA,NA,NA,3 months,90,combined,NA,female,vaginal,NA,full-term,3210,FIN_2
+Yassour,SRR7280937,M0346M90,346,stool,mother,NA,NA,NA,NA,3 months,90,combined,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281018,M0353M0,353,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280939,M0353C14,353,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3150,FIN_2
+Yassour,SRR7281014,M0353C30,353,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3150,FIN_2
+Yassour,SRR7281013,M0353C60,353,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3150,FIN_2
+Yassour,SRR7281016,M0353C90,353,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3150,FIN_2
+Yassour,SRR7281017,M0353M90,353,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280978,M0369M0,369,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7281019,M0369C14,369,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,female,CS,NA,full-term,3630,FIN_2
+Yassour,SRR7281011,M0369C30,369,stool,infant,NA,NA,NA,NA,1 month,30,combined,NA,female,CS,NA,full-term,3630,FIN_2
+Yassour,SRR7281010,M0369C60,369,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,female,CS,NA,full-term,3630,FIN_2
+Yassour,SRR7280980,M0369C90,369,stool,infant,NA,NA,NA,NA,3 months,90,combined,NA,female,CS,NA,full-term,3630,FIN_2
+Yassour,SRR7280979,M0369M90,369,stool,mother,NA,NA,NA,NA,3 months,90,combined,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7280984,M0388C0,388,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3685,FIN_2
+Yassour,SRR7280816,M0388M0,388,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280985,M0388C14,388,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,male,vaginal,NA,full-term,3685,FIN_2
+Yassour,SRR7280982,M0388C30,388,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,3685,FIN_2
+Yassour,SRR7280983,M0388C60,388,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,vaginal,NA,full-term,3685,FIN_2
+Yassour,SRR7280976,M0388C90,388,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,vaginal,NA,full-term,3685,FIN_2
+Yassour,SRR7280815,M0388M90,388,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280814,M0399C0,399,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3650,FIN_2
+Yassour,SRR7280824,M0399M0,399,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280813,M0399C14,399,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3650,FIN_2
+Yassour,SRR7280820,M0399C30,399,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3650,FIN_2
+Yassour,SRR7280819,M0399C60,399,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3650,FIN_2
+Yassour,SRR7280818,M0399C90,399,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3650,FIN_2
+Yassour,SRR7280823,M0399M90,399,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281051,M0402M0,402,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281054,M0402C14,402,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,female,vaginal,NA,full-term,2780,FIN_2
+Yassour,SRR7281055,M0402C30,402,stool,infant,NA,NA,NA,NA,1 month,30,combined,NA,female,vaginal,NA,full-term,2780,FIN_2
+Yassour,SRR7281056,M0402C60,402,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,2780,FIN_2
+Yassour,SRR7281049,M0402C90,402,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,2780,FIN_2
+Yassour,SRR7281052,M0402M90,402,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281025,M0427M0,427,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281062,M0427C14,427,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3095,FIN_2
+Yassour,SRR7281021,M0427C30,427,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3095,FIN_2
+Yassour,SRR7281022,M0427C60,427,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3095,FIN_2
+Yassour,SRR7281023,M0427C90,427,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3095,FIN_2
+Yassour,SRR7281026,M0427M90,427,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281027,M0450C0,450,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3740,FIN_2
+Yassour,SRR7280880,M0450M0,450,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281028,M0450C14,450,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,male,vaginal,NA,full-term,3740,FIN_2
+Yassour,SRR7281029,M0450C30,450,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,3740,FIN_2
+Yassour,SRR7281030,M0450C60,450,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,vaginal,NA,full-term,3740,FIN_2
+Yassour,SRR7281064,M0450C90,450,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,vaginal,NA,full-term,3740,FIN_2
+Yassour,SRR7280883,M0450M90,450,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281060,M0487C0,487,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3485,FIN_2
+Yassour,SRR7281065,M0487M0,487,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280862,M0487C14,487,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,male,vaginal,NA,full-term,3485,FIN_2
+Yassour,SRR7280865,M0487C30,487,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,3485,FIN_2
+Yassour,SRR7280821,M0487C60,487,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,vaginal,NA,full-term,3485,FIN_2
+Yassour,SRR7280858,M0487C90,487,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,vaginal,NA,full-term,3485,FIN_2
+Yassour,SRR7281068,M0487M90,487,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280866,M0744M0,744,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7280864,M0744C14,744,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,female,CS,NA,full-term,4005,FIN_2
+Yassour,SRR7280825,M0744C30,744,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,CS,NA,full-term,4005,FIN_2
+Yassour,SRR7280826,M0744C60,744,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,CS,NA,full-term,4005,FIN_2
+Yassour,SRR7281034,M0744C90,744,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,CS,NA,full-term,4005,FIN_2
+Yassour,SRR7280863,M0744M90,744,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7280869,M0764C0,764,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3870,FIN_2
+Yassour,SRR7280860,M0764M0,764,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280868,M0764C30,764,stool,infant,NA,NA,NA,NA,1 month,30,combined,NA,male,vaginal,NA,full-term,3870,FIN_2
+Yassour,SRR7280867,M0764C60,764,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,male,vaginal,NA,full-term,3870,FIN_2
+Yassour,SRR7280870,M0764C90,764,stool,infant,NA,NA,NA,NA,3 months,90,combined,NA,male,vaginal,NA,full-term,3870,FIN_2
+Yassour,SRR7280861,M0764M90,764,stool,mother,NA,NA,NA,NA,3 months,90,combined,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280914,M0792C0,792,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3775,FIN_2
+Yassour,SRR7280909,M0792M0,792,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280907,M0792C14,792,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,female,vaginal,NA,full-term,3775,FIN_2
+Yassour,SRR7280974,M0792C30,792,stool,infant,NA,NA,NA,NA,1 month,30,combined,NA,female,vaginal,NA,full-term,3775,FIN_2
+Yassour,SRR7280916,M0792C60,792,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3775,FIN_2
+Yassour,SRR7280913,M0792C90,792,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3775,FIN_2
+Yassour,SRR7280908,M0792M90,792,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280940,M0806C0,806,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3645,FIN_2
+Yassour,SRR7280945,M0806M0,806,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280917,M0806C14,806,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3645,FIN_2
+Yassour,SRR7280975,M0806C30,806,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3645,FIN_2
+Yassour,SRR7280964,M0806C60,806,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3645,FIN_2
+Yassour,SRR7280941,M0806C90,806,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3645,FIN_2
+Yassour,SRR7280915,M0806M90,806,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280897,M0808C0,808,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,vaginal,NA,full-term,3205,FIN_2
+Yassour,SRR7280966,M0808M0,808,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280968,M0808C14,808,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,male,vaginal,NA,full-term,3205,FIN_2
+Yassour,SRR7280943,M0808C30,808,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,male,vaginal,NA,full-term,3205,FIN_2
+Yassour,SRR7280942,M0808C60,808,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,male,vaginal,NA,full-term,3205,FIN_2
+Yassour,SRR7280898,M0808C90,808,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,male,vaginal,NA,full-term,3205,FIN_2
+Yassour,SRR7280969,M0808M90,808,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280963,M0901C0,901,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,male,CS,NA,full-term,3450,FIN_2
+Yassour,SRR7280991,M0901M0,901,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7280971,M0901C14,901,stool,infant,NA,NA,NA,NA,14 days,14,combined,NA,male,CS,NA,full-term,3450,FIN_2
+Yassour,SRR7280896,M0901C30,901,stool,infant,NA,NA,NA,NA,1 month,30,combined,NA,male,CS,NA,full-term,3450,FIN_2
+Yassour,SRR7280965,M0901C60,901,stool,infant,NA,NA,NA,NA,2 months,60,combined,NA,male,CS,NA,full-term,3450,FIN_2
+Yassour,SRR7280962,M0901C90,901,stool,infant,NA,NA,NA,NA,3 months,90,combined,NA,male,CS,NA,full-term,3450,FIN_2
+Yassour,SRR7280972,M0901M90,901,stool,mother,NA,NA,NA,NA,3 months,90,combined,NA,female,CS,NA,full-term,NA,FIN_2
+Yassour,SRR7281003,M1098C0,1098,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,3385,FIN_2
+Yassour,SRR7280999,M1098M0,1098,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7280989,M1098C14,1098,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,full-term,3385,FIN_2
+Yassour,SRR7280993,M1098C30,1098,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,full-term,3385,FIN_2
+Yassour,SRR7280992,M1098C60,1098,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,full-term,3385,FIN_2
+Yassour,SRR7280987,M1098C90,1098,stool,infant,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,3385,FIN_2
+Yassour,SRR7280988,M1098M90,1098,stool,mother,NA,NA,NA,NA,3 months,90,breast,NA,female,vaginal,NA,full-term,NA,FIN_2
+Yassour,SRR7281006,M1172C0,1172,stool,infant,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,preterm,2650,FIN_2
+Yassour,SRR7281008,M1172M0,1172,stool,mother,NA,NA,NA,NA,Birth,0,NA,NA,female,vaginal,NA,preterm,NA,FIN_2
+Yassour,SRR7281007,M1172C14,1172,stool,infant,NA,NA,NA,NA,14 days,14,breast,NA,female,vaginal,NA,preterm,2650,FIN_2
+Yassour,SRR7281004,M1172C30,1172,stool,infant,NA,NA,NA,NA,1 month,30,breast,NA,female,vaginal,NA,preterm,2650,FIN_2
+Yassour,SRR7281005,M1172C60,1172,stool,infant,NA,NA,NA,NA,2 months,60,breast,NA,female,vaginal,NA,preterm,2650,FIN_2

@@ -1,15 +1,16 @@
+library(readr) # for reading .csv file and writing result to .csv file
 library(dplyr) # for data manipulation
 library(stringr) # for working with strings
 
 # load data that we saved in data_import
-load("processed_data/sample_metadata.rda")
+readr::read_csv("processed_data/sample_metadata.csv")
 
 # clean data
 clean_metadata <- sample_metadata %>%
   # remove all rows in data that are missing sample ID
   dplyr::filter(!is.na(SampleID)) %>% 
   # clean study name to only include last name of first author
-  mutate(Study = 
+  dplyr::mutate(Study = 
            # remove _year from study name
            stringr::str_remove(Study, "\\_.*") %>% 
            # remove first name initial from study name
@@ -51,4 +52,5 @@ clean_metadata <- clean_metadata %>%
   filter(!(sampling_paper %in% c("32WK", "Gest")))
 
 # save cleaned data
-save(clean_metadata, file = "processed_data/clean_sample_metadata.rda")
+readr::write_csv(clean_metadata, 
+                 file = "processed_data/clean_sample_metadata.csv")

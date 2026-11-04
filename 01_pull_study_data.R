@@ -1,7 +1,9 @@
 library(readxl) # for reading data from supplementary table
 library(dplyr) # for combining data across studies 
+library(readr) # for writing result to .csv file
 
-# read tabs for each study from Table S1 from Wang et al. supplementary information, saved as "Table S1.xlsx"
+# read tabs for each study from Table S1 from Wang et al. 
+# supplementary information, saved as "Table S1.xlsx"
 study_data <- lapply(3:10, function(i) {
   readxl::read_xlsx("raw_data/Table S1.xlsx", sheet = i)
 }) 
@@ -15,7 +17,7 @@ study_data_clean <- lapply(study_data, function(df) {
 # combine lists for each study into a single data frame
 sample_metadata <- dplyr::bind_rows(study_data_clean)
 
-# save data frame as a .rda file
-save(sample_metadata, file = "processed_data/sample_metadata.rda")
+# save data frame as a .csv file
+readr::write_csv(sample_metadata, file = "processed_data/sample_metadata.csv")
 
 
