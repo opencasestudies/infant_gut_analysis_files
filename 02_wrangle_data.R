@@ -17,10 +17,7 @@ clean_metadata <- sample_metadata %>%
            stringr::str_remove_all("(?<=.)[A-Z]")) %>% 
   # remove spaces from names of variables 
   dplyr::rename(sampling_paper = `Sampling from papers`, 
-         sampling_day = `Sampling, day`) %>%
-  # recode "NA" as NA and make sampling_day a numeric variable
-  mutate(sampling_day = na_if(sampling_day, "NA") %>%
-           as.numeric()) 
+         sampling_day = `Sampling, day`) 
 
 # in Yassour study, sample IDs are not unique to samples 
 # first inspect this to confirm
